@@ -3,8 +3,8 @@ filename = "cosmeticarmorreworked-1.20.1-v1a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea"
+hash-format = "sha512"
+hash = "85bd5946cbbed8fa4cf2d98b3001ea578a2c312a5844553b01c78365de50f31961cb1f21be187fccec36bdb4947cea3b0b131836df0ee0cbdb0a5ac30d4155f6"
 mode = "metadata:curseforge"
 
 [update]

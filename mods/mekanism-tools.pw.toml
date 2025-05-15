@@ -3,8 +3,8 @@ filename = "MekanismTools-1.20.1-10.4.15.75.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9b210b8931cc2303dc14a3d3ccd57dac8e26b601"
+hash-format = "sha512"
+hash = "b617c12183712946590853a5787437372fe962c2077e161e2445147c81144f10402cec067e1b8b721ccbd9452d429af5c22374b9ad67497cc16310a8a464ef2e"
 mode = "metadata:curseforge"
 
 [update]

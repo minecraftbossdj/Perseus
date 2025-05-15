@@ -3,8 +3,8 @@ filename = "ExtraBounties-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bd6372aa90d9ba0dda7a079edf87657aa5b5612a"
+hash-format = "sha512"
+hash = "a8fd65ccf4bc4eca319d365994c5b7b354a1fd995059f5708ea9b4b0625aa58c07408b2cab75d7e34b74695c4604599a32634a0ef6da51f4535db364f6f5f444"
 mode = "metadata:curseforge"
 
 [update]

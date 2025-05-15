@@ -3,8 +3,8 @@ filename = "smoothchunk-1.20.1-4.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3e142e4a2e12db1c9a3777879cc021aff49da088"
+hash-format = "sha512"
+hash = "c89394b54fbc7d108632583d3984ed7aa12c4aaed0b3e4c36d2f2452175213192d19a5ed0b426ccbba9ca18bde5d9a89a9024f42c4ef95888c733dfc4435b5fb"
 mode = "metadata:curseforge"
 
 [update]

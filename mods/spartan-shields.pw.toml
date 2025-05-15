@@ -3,8 +3,8 @@ filename = "SpartanShields-1.20.1-forge-3.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2d1c99c2a5c6116ed17be0ac3cb223a2f46636e8"
+hash-format = "sha512"
+hash = "1876ea520c34ee79ef65c9dfdb79f9389da29391f35cc82a9d42cf6a76411bd21c6b992c18762c0957cf8ae71fd484f6d5b9d880c54bff2129253613a2ff95ec"
 mode = "metadata:curseforge"
 
 [update]

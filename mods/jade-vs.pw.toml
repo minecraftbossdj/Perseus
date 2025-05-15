@@ -3,8 +3,8 @@ filename = "Jade-VS-forge-1.20.1-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a43cc0beb6be1f92731faed6e74c8a29c54eda94"
+hash-format = "sha512"
+hash = "81953b64554ddb3fa95b6f409a012acc68e19476876f4d7ab0f10d1402a841e3471afecc3bc355139dbe7314e01c966d871097dda59f48dc1a0b670e52a03ecf"
 mode = "metadata:curseforge"
 
 [update]

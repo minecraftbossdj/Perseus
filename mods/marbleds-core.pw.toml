@@ -3,8 +3,8 @@ filename = "mcore-1.20.1-1.0.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9296ede0ee8e975cb7ded4a449d16b76eca8420b"
+hash-format = "sha512"
+hash = "16f9cccf4367a74356a687764e28f70747f13bf9d2b11143f4522fcb25e3e2720a15624c6545e5fac9ef06fdfbfc464816f30dcffb00dfcc2426cbe55e7f6dbc"
 mode = "metadata:curseforge"
 
 [update]

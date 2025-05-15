@@ -3,8 +3,8 @@ filename = "warborn-1.20.1-2.3.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9f3cb4316e72f6bdfb21fc36ae0827afe7d2862b"
+hash-format = "sha512"
+hash = "9ad70a1b1bf5b212aeeb7b40a954b1364c811fd8873aebaa518fa03ea837fa5995983f3e6410a8a5678504b91f3cd2445e76a0f998eff2b4dad0fa6ff6f05baf"
 mode = "metadata:curseforge"
 
 [update]

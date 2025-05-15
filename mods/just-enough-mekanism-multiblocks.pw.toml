@@ -3,8 +3,8 @@ filename = "JustEnoughMekanismMultiblocks-1.20.1-4.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "58d6a6c0e0028d286910331b2765a49da5f694cd"
+hash-format = "sha512"
+hash = "93ce82c0781f5370998db77e257625e5273cd40d8ec0245295e14d7375fca8b61bb1e824eeee19d49889650d7e7df13025ce8efb590f0e24fee254e4a9073c62"
 mode = "metadata:curseforge"
 
 [update]

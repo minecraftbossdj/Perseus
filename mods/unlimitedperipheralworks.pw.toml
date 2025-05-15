@@ -3,8 +3,8 @@ filename = "peripheralworks-forge-1.20.1-1.4.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "480add47f5022e7e773b4ccfadc7dd3e456e8a1c"
+hash-format = "sha512"
+hash = "04b41a54b4d6eb079111569f78f6ff77f284a9f933a3a6c12f14f41c3601aa0b874603eef01952a9a5ef7471736c74bbff1e5184eadc76df61d14e48c3a032e1"
 mode = "metadata:curseforge"
 
 [update]

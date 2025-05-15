@@ -3,8 +3,8 @@ filename = "CreateTankDefenses v0.80.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1faaf93d247e642386a8fe9a665300a8fd387a45"
+hash-format = "sha512"
+hash = "0b8caf9794d1ca684aa64ce52ce0fb8d96f94b91713e0ea8445b4399e3d7b1dbf39bcb58a8060d1def8e51584a730ed76c8d75ef3fc6a66f4ec012959ba2c431"
 mode = "metadata:curseforge"
 
 [update]

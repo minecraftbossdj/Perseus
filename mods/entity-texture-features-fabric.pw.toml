@@ -3,8 +3,8 @@ filename = "entity_texture_features_forge_1.20.1-6.2.9.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "55c8a7db3b4ddd28485c4d2bab7381a756b771c6"
+hash-format = "sha512"
+hash = "0d8576c785c689aa39c29f8dbee46b28c308a01a87eaa01a1d405c617b7a30be5ba1e62faeb5f212e44d50ae5a230e48815ac572adaba0c6d3a9e2df47183023"
 mode = "metadata:curseforge"
 
 [update]

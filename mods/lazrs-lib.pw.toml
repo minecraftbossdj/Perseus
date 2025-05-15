@@ -3,8 +3,8 @@ filename = "Lazr's Lib-1.20-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2be2715b4ed23d943533e5bff0929ac6ba271759"
+hash-format = "sha512"
+hash = "0a0c7fdf0ab5e9715c8823a42081f2ec095287a01e7b1e575f08ba8b314423eb4dcebfc1775fcddc4392337b779bd9c1d34cba44eb47da22279c6de3def2c70e"
 mode = "metadata:curseforge"
 
 [update]

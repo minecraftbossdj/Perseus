@@ -3,8 +3,8 @@ filename = "vpb-automation-d.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d5649d40b3c99e88e3bd019fa40a44463e86cc1d"
+hash-format = "sha512"
+hash = "abd64252135e78bcf6059b7825ea6466efb448591cc889dd24c31662eb9c80ef00374736d281528fa7f1a3d0a44334e05e930788d82ee7b5a8aed7bb2bb692f8"
 mode = "metadata:curseforge"
 
 [update]

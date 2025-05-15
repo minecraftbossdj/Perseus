@@ -3,8 +3,8 @@ filename = "cbcmodernwarfare-0.0.6c+mc.1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "621626b34c8901d3481e82a227e03b42b2597b89"
+hash-format = "sha512"
+hash = "02733114518d81e4b5b3631292146f9cef4849f69dd9dfef3f9b4beeed1b53a1b82d2c891a5bc6210183ce618359f50e508b566b312e8b88f480e2bb40a91171"
 mode = "metadata:curseforge"
 
 [update]

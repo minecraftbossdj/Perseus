@@ -3,8 +3,8 @@ filename = "createbb-1.20.1-3.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fd372ce9cef482bdcc7c92abec634cccab73689c"
+hash-format = "sha512"
+hash = "9a47af417c37063c1648753d441b2723e8a00dd8e9b540197c44d1cc93b66c3c895741e08de256308efd1fb1bbc6fddc310baf9cef1a19e09b1e901734a804be"
 mode = "metadata:curseforge"
 
 [update]

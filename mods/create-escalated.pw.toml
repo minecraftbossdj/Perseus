@@ -3,8 +3,8 @@ filename = "escalated-1.0.0-mc.1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "de51302824cf7634a5eb4a2100b5ec11e69740e4"
+hash-format = "sha512"
+hash = "090f1bcc8a2581e188d879c9e128050040d67f2726516c02172c69d2361c8fdf50c44dba2b1af808b0a4c83b00b7dc64b4c4289ef1e9458f9b15451c1b4d04ee"
 mode = "metadata:curseforge"
 
 [update]

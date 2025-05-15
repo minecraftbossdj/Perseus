@@ -3,8 +3,8 @@ filename = "flerovium-forge-1.20.1-1.2.11-all.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "e2a20dc0bf63e011525167904d829956fc2c3601"
+hash-format = "sha512"
+hash = "5b71e7985765fa601dde527ad7f65b0120c8cef507870b0d766a60b54d8bbdd9739d3aa76f3d6f60274419b1e27809ea3cde4bada6ade1afc85800d94ec8e15d"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "FastSuite-1.20.1-5.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3a759dce0ddc91e299027faa800c0ee40ab90de8"
+hash-format = "sha512"
+hash = "67f548732f82a72b0d754e1285056e651d970c87a2a9ddbd0852c1d9111e6ae42bee7a936246f098f7b1ed30584cec3aec9d83a87861bf11ced3fb345faaedbf"
 mode = "metadata:curseforge"
 
 [update]

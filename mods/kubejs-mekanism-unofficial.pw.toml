@@ -3,8 +3,8 @@ filename = "kubejs-mekanism-forge-2001.1.5.1-build.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d16736c07c210f41d4987a95c26f439bb5121d14"
+hash-format = "sha512"
+hash = "02741e1725957acef0117e139e491f878bd3986716e51896ca9186f8776544df3c531822887661095a8b5e23f799144c4a1cf8a22144df774ea88a03cf0777ac"
 mode = "metadata:curseforge"
 
 [update]

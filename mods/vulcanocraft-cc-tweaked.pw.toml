@@ -3,8 +3,8 @@ filename = "cc-tweaked-1.20.1-forge-1.115.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "44ba9840dc2f11b3a046aca346ba509907916ff1"
+hash-format = "sha512"
+hash = "cdfdfa8517b7cdabb45d43e3112fb333464e21856b216a62ebabd03cc7329b64816ffa7e2d9d8fbe082f63fe52ea7bef6f4ba095d47f82f40868b52ecc2e401b"
 mode = "metadata:curseforge"
 
 [update]
