@@ -3,8 +3,8 @@ filename = "ftb-chunks-forge-2001.3.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "36b409f857bc1074025ea015f86aa0d70494901f9be074d86b4a16ab2df113a053b908f5281a87dbb82fc63b9748cb492249d6a0c9e2e05ddafa56ecf1e9525e"
+hash-format = "sha256"
+hash = "caaa40aea64bba6f113fbddcabf77962b4b4e03bf57cbabace07ab05d28b38f9"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "turtlematic-forge-1.20.1-1.4.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "673762f22a701d9155077bfa3e7034558facfaeb6d397ec7970801798a11ab2b8cae95d102ae00c08ff7847bbf6ef1e5e064e301de4bbd31e2f60c3999aeb3d2"
+hash-format = "sha256"
+hash = "1018e48f7a136a1b71604b6dc2bc569e4b25aa06df342774c917a86c9080471a"
 mode = "metadata:curseforge"
 
 [update]

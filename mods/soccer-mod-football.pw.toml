@@ -3,8 +3,8 @@ filename = "soccermod-0.1-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "e7097e488d3a97598b994c2a06fa448bbd076c8a5e806faa648ccc5df31822aad95e810c554f9286e4f2b77a1821178b4e6ea895b99c82cf5540666fa11ed8d3"
+hash-format = "sha256"
+hash = "215cedd15bcfa54420a899bbac2223f495ef4ba85e6225c17ca2b5efc71d2e25"
 mode = "metadata:curseforge"
 
 [update]

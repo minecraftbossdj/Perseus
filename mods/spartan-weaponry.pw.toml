@@ -3,8 +3,8 @@ filename = "SpartanWeaponry-1.20.1-forge-3.1.3-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "0ab549e5ef2cdc87f3b2b7b56efcf453bdfd45e23cdc1aa00137f53725a0e3c588d1b39c77059e705ac1a9ae086fa084c5e81425d8aae9c3ef9187c09d37b6f8"
+hash-format = "sha256"
+hash = "509243a7b43cddd790593f88b9cc165de21c2f341c30b871ffe85871342b9468"
 mode = "metadata:curseforge"
 
 [update]

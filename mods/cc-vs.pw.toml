@@ -3,8 +3,8 @@ filename = "cc_vs-1.20.1-forge-0.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "16512e6568cc54f245812584b690e6d564b385cbdf3ebbdf941a88130174b3ed1c2d09071df4873991e006bcc6550a0664b0bd413fba4b8b4d3948a798622934"
+hash-format = "sha256"
+hash = "42b297e56911e4de78dad3c01a09e899a6e0292d5358a5ef4168bd4ce03b905b"
 mode = "metadata:curseforge"
 
 [update]

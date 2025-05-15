@@ -3,8 +3,8 @@ filename = "CreateNumismatics-1.0.11+forge-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "26accf1dd0c92517b405dc7a7c533189c9299f361a937d470bd7e8e43dd7f7d8e1686e9ed576214eecee69c318a4a7c0b9248f22915caa06756ba5652d7983c8"
+hash-format = "sha256"
+hash = "67349bceeeeeb8adc807d886fd26544685a1e6095af0d4134d4de351e6afbbe6"
 mode = "metadata:curseforge"
 
 [update]

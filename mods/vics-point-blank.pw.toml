@@ -3,8 +3,8 @@ filename = "pointblank-forge-1.20.1-1.9.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "914fc8c8393203acac2c2d74ed7f29b59364246dc07be4b723dd08571f7974be07b6a154386c04ea4b70d44c5308dca580670180769dd2e2787603288b12282a"
+hash-format = "sha256"
+hash = "10d6e6ffe6fe8fbf43e9f4b7ff9d39f0cd6287e0bb9a5ee2def69cb350c61792"
 mode = "metadata:curseforge"
 
 [update]

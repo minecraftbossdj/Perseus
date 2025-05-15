@@ -3,8 +3,8 @@ filename = "createendertransmission-2.0.7-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "5985d80f54d4243a499c399f092c78bd1e914b0c35c2831446835b7a3267e4f85dbeae49259679ba70e54e89599f5627f68b4614b7cc2bd101c9dffd9bdd8858"
+hash-format = "sha256"
+hash = "84d5c38dea8a887406216121eb34d5dab938a45db522904468dc7db200e47034"
 mode = "metadata:curseforge"
 
 [update]

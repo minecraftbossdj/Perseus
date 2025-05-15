@@ -3,8 +3,8 @@ filename = "create-new-age-forge-1.20.1-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "d6fac731e9356b52f1e0c43105a92cd41c8633367f8b525d0573a7610bca2de5497391bd8a9483efe46cb61152a6efd7f7adfc33cfd9b16655d70f8406a89694"
+hash-format = "sha256"
+hash = "e6d5b0493b83304bcd7b838b56a88b4e1457417be6bceb3445805c2b22872ad3"
 mode = "metadata:curseforge"
 
 [update]

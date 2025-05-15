@@ -3,8 +3,8 @@ filename = "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "0e7aa608252f6469089ee8a8c680b697097e41b0cbcc3f4521cb4f8b4c0853f4bbd18b39d6bb22f570445fda17293b5117104e59545608e0c1b960732d0cd9a7"
+hash-format = "sha256"
+hash = "db605fb4f4f760fbca3cb25cf36289a3bf61f808daf08b7d514b9a1d7a89ae31"
 mode = "metadata:curseforge"
 
 [update]

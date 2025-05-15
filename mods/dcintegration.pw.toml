@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/rbJ7eS5V/versions/ILJrSvYW/dcintegration-forge-3.0.7.1-1.20.1.jar"
-hash-format = "sha512"
-hash = "a4bcef59ff48059595fbcb50891b4561db8fdfe6e30ad4a6277eb0506bac519a3d69431aa691969d8894b93e5dc055b94cb0a9c09a1e3066eb5cbde411d2e483"
+hash-format = "sha256"
+hash = "8da9fbc532229b4d55b4857c7fc28ded385ca6e621e95ba393a584aadef7868d"
 
 [update]
 [update.modrinth]

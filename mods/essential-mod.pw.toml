@@ -3,8 +3,8 @@ filename = "Essential_1-3-6_forge_1-20-1.jar"
 side = "client"
 
 [download]
-hash-format = "sha512"
-hash = "de624058b1e33cb7e52e4f5a12c3f0996289328656d5554fc05e4f34cc4d27419caf4e05ed3866192d14c1da493957dfe5d01d6bee8a4d07a5e5ad8b1f0862f7"
+hash-format = "sha256"
+hash = "ed115ad2cf677080cdc850658271fb4afe811cb40cc3386bc58ac9486c612646"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "entity_model_features_forge_1.20.1-2.4.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha512"
-hash = "f6160617baabb494226d09687aed23e0cdc6de42122d1c6b038ef733990cabc2aff62b6b1e91eb42236e9e0b952dcf1cdc42c323d823f41a0e5c285f831dce65"
+hash-format = "sha256"
+hash = "9bea926d834e8dd84eb9cb74cb6954c9b88d16a341941a0caecf7cc6656ad586"
 mode = "metadata:curseforge"
 
 [update]

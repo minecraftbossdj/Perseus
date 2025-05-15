@@ -3,8 +3,8 @@ filename = "peripheralium-forge-1.20.1-0.7.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "39141da9d5e568f355fde4c8ef61d81f8835fbe72d5d5096692622f6fa6bf2cb36c1d8761715f98f3810b8fd574b3ddb32860596bb7f2fc95e401abd2f8eda55"
+hash-format = "sha256"
+hash = "a9ed0455336e5afe77b3e393461084d3a1f29f33c007ddbcac36de0730304f94"
 mode = "metadata:curseforge"
 
 [update]

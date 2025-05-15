@@ -3,8 +3,8 @@ filename = "GlitchCore-forge-1.20.1-0.0.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "f0bace5a314202b1e116fcece2e1e6feae8c878a8ba324a4405eb48b7067bd4b92a0d21a544758e1e7ce97b6efec646677ecbc7b00eca5cbd37e52eac4aa27de"
+hash-format = "sha256"
+hash = "e42a8b513da08a910c133caeafad9fc2fcc22fdaaa2eb3e2516e9112a5a0db61"
 mode = "metadata:curseforge"
 
 [update]

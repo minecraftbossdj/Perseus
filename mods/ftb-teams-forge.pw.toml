@@ -3,8 +3,8 @@ filename = "ftb-teams-forge-2001.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "2cb200d5197e5baafa9e13e5c594a717c4f90aa17134e33207139f2280be5d2703e56139d24c96df643633c527c69d5bc5c9162ee929291ddd070b5e06a60003"
+hash-format = "sha256"
+hash = "d6e3cf8d0bdae7f848764428c613ae2528aecf9d275b4169eb8e15da87b41863"
 mode = "metadata:curseforge"
 
 [update]

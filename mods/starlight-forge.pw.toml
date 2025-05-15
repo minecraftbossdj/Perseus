@@ -3,8 +3,8 @@ filename = "starlight-1.1.2+forge.1cda73c.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "cc89c6b2dd0db709586028c7732a57a3e6184f19cc2b98b25964c720c3ab434031e62de23e0dab022575d637b5e4a34b5813164d32ec356d56588da400e7d026"
+hash-format = "sha256"
+hash = "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "marbledsarsenal-1.20.1-2.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "3c6b88f35e4b54a5bc0917e029252212e68dcb8e7527d4224524ead53665e39488d227cad8377ffe2690c87cad14cc64f39131582d86c5a8671460a338874a7a"
+hash-format = "sha256"
+hash = "4b49c18f40914d814b5c344c06e913f4d275152e543172ce694c0db73f9f0fb5"
 mode = "metadata:curseforge"
 
 [update]

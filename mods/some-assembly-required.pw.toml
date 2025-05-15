@@ -3,8 +3,8 @@ filename = "some-assembly-required-1.20.1-4.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "62269c2832e7510223132723db99821193fb92d86a98e0e59fd0d2d7b2e955746f2600599234f5695b03dd8d3d801f0db298a8ac9dd193f7503178ae88035a4d"
+hash-format = "sha256"
+hash = "2edff90344a5a10e19cb8bbc4dc53e4906376a9d4de80732d933d2a0fe31732d"
 mode = "metadata:curseforge"
 
 [update]

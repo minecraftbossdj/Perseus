@@ -3,8 +3,8 @@ filename = "IntegratedDynamics-1.20.1-1.25.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "7d87c93169e1bc94025c848106f1843b311935313e4bedc300db1aedb03d377aea135922313f5159fee7928b326b586a161cbe6a37d6c7fd114b35c9bdc48a86"
+hash-format = "sha256"
+hash = "572357500af33585b3661719673967e8976432d2ca9cab667c0417778ef1616e"
 mode = "metadata:curseforge"
 
 [update]

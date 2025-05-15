@@ -3,8 +3,8 @@ filename = "s_a_b-1.4.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "a82b9300e5396d73497d02844fbaded3c3fe8372bc82542844984ed5a5723585fbae80b244dde63fd4c27bf1eca33d10b46808720706a4cef3304fe5f686f20e"
+hash-format = "sha256"
+hash = "a764cdde571c921e3e9ddb8a66d0545eeedeaa6e35352f26b3b3a7258850b234"
 mode = "metadata:curseforge"
 
 [update]

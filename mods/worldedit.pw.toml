@@ -3,8 +3,8 @@ filename = "worldedit-mod-7.2.15.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "2c41dcd9a622f948ed5409eecc485018fbf274945bdd1a9c0fdf4c4954f9a47dc311e6e0f9e445180d8b771e4a40947533d67bd66feb4ab8c8f87c2880dba7ef"
+hash-format = "sha256"
+hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
 mode = "metadata:curseforge"
 
 [update]

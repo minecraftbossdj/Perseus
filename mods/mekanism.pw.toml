@@ -3,8 +3,8 @@ filename = "Mekanism-1.20.1-10.4.15.75.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "bc5d0892e690e649214a1b44733bee39f32295cecb00afe994170b422dc9a076d62818cb3d987f0951095ac8976b2d311bc39700e666d9d0410b46c37f771a35"
+hash-format = "sha256"
+hash = "5ad0efe29f32524be436e0843f930b03702678703b82a6bf66d3cb987369671e"
 mode = "metadata:curseforge"
 
 [update]

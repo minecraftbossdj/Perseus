@@ -3,8 +3,8 @@ filename = "kubejsadditions-forge-4.3.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "08f6426ab4466573ac7c4407d78df113c6ed88643cfd71c078382f2677c68db8b59c57aeee6c792cef0fefa16f7f7cba7912f73610de417d2fbed908201784cf"
+hash-format = "sha256"
+hash = "89ef426761bc68b2f449c93fe75c0532317e53561758d7a002e4cb0450b9be27"
 mode = "metadata:curseforge"
 
 [update]

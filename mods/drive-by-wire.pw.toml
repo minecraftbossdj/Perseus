@@ -3,8 +3,8 @@ filename = "drivebywire-1.20.1-0.0.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "2429265395f343e88c465fcba0f2faaeccb1c5fc09b22fa88fa3d261e7213670763ca74fe8ea7f58947fdbe1debaa5fa82fa3829e03782619af81fdd0a290a54"
+hash-format = "sha256"
+hash = "6034d32d5b58d3fd8596676262165a7af3246e54abf23cc3e611366dd3f322ca"
 mode = "metadata:curseforge"
 
 [update]

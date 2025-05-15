@@ -3,8 +3,8 @@ filename = "BrandonsCore-1.20.1-3.2.1.302-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "5cdf22a6343dcc5c3e59d622344120e4314cce0be98ee9c865c69c333b8bd449812de380b8142065ab7bf873a51607995b5f2d83f69212f285f14f774ea16d8a"
+hash-format = "sha256"
+hash = "79eb172fea57b1fa6424fda1c773aefb13c4e11277b810bb4c7577ed8c5f8ca6"
 mode = "metadata:curseforge"
 
 [update]
