@@ -1,0 +1,13 @@
+name = "vpb - automation"
+filename = "vpb-automation-d.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5649d40b3c99e88e3bd019fa40a44463e86cc1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6355600
+project-id = 1223725

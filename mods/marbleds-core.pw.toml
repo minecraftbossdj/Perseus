@@ -1,0 +1,13 @@
+name = "Marbled's Core [MCORE]"
+filename = "mcore-1.20.1-1.0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9296ede0ee8e975cb7ded4a449d16b76eca8420b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6058648
+project-id = 1039434

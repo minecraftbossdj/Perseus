@@ -1,0 +1,13 @@
+name = "Lazr's Lib"
+filename = "Lazr's Lib-1.20-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2be2715b4ed23d943533e5bff0929ac6ba271759"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5654672
+project-id = 1048285

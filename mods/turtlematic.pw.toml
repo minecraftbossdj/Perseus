@@ -1,0 +1,13 @@
+name = "Turtlematic"
+filename = "turtlematic-forge-1.20.1-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ff22daf2d6cd88a5319379b28364bafaa62515f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6322053
+project-id = 618288

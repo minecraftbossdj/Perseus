@@ -1,0 +1,13 @@
+name = "FTB Chunks - Modded Support"
+filename = "ftb-chunks-modded-1.20+1.1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bc2a017122a70b043e22b5f709c9de500262542"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6391470
+project-id = 1160650

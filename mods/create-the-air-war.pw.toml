@@ -1,0 +1,13 @@
+name = "Create: The Air War"
+filename = "create_the_air_wars-1.04-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96a80b95ba09d97383c9671e2dc459c7cab36bcc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6079431
+project-id = 1165250

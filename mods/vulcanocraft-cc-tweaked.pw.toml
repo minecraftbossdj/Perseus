@@ -1,0 +1,13 @@
+name = "vulcanocraft cc: tweaked"
+filename = "cc-tweaked-1.20.1-forge-1.115.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "44ba9840dc2f11b3a046aca346ba509907916ff1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6289024
+project-id = 1217571

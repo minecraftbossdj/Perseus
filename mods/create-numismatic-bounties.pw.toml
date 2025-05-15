@@ -1,0 +1,13 @@
+name = "Create : Numismatic Bounties"
+filename = "NumismaticBounties-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "daa4eac068602cff65da91c2a5e0d303948b9cb8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6206458
+project-id = 1172382

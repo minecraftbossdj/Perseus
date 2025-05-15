@@ -1,0 +1,13 @@
+name = "Jade VS"
+filename = "Jade-VS-forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a43cc0beb6be1f92731faed6e74c8a29c54eda94"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6245865
+project-id = 1209806

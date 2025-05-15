@@ -1,0 +1,13 @@
+name = "Playing Cards & Chips"
+filename = "playingcards-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d590a5b33cf9ffa72f0a27e6cc9f863da716067"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6044204
+project-id = 1162591
