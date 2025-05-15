@@ -1,0 +1,7 @@
+{
+    "name": "fallout.gun.10mm_pistol.name",
+    "display": "fallout:10mm_pistol_display",
+    "data": "fallout:10mm_pistol_data",
+    "type": "pistol",
+    "tooltip": "fallout.gun.10mm_pistol.desc"
+}

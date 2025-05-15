@@ -1,0 +1,28 @@
+{
+  "pack.fallout.fallout.name": "Fallout Addon Pack",
+  "pack.fallout.fallout.desc": "An addon pack with Fallout4 weapons..",
+
+
+  "fallout.gun.gauss_rifle.name": "Gauss Rifle",
+  "fallout.gun.x26.name": "Taser X26",
+  "fallout.gun.dzj08.name": "DZJ-08",
+  "fallout.gun.10mm_pistol.name": "10mm Pistol",
+  "fallout.gun.qlz87.name": "Chinese Grenade Laucher",
+  "fallout.gun.assault_rifle.name": "Assault Rifle",
+  "fallout.gun.laser_rifle.name": "Laser Rifle",
+  "fallout.gun.laser_pistol.name": "Laser Pistol",
+
+  "fallout.gun.gauss_rifle.desc": "A Can Opener",
+  "fallout.gun.x26.desc": "Pre-war self-defense weapons",
+  "fallout.gun.dzj08.desc": "The perfect choice for breaking down buildings",
+  "fallout.gun.10mm_pistol.desc": "Small, dependable, reasonably powerful and widely available\nthe 10mm Pistol has been a staple of Wasteland combat since the bombs first fell.",
+  "fallout.gun.qlz87.desc": "Pre-war grenade launchers left behind by the Chinese Army",
+  "fallout.gun.assault_rifle.desc": "A common sight in the Commonwealth,\nthis assault rifle is used by higher-ranking raiders,\nGunners officers and some super mutants.",
+  "fallout.gun.laser_rifle.desc": "The AER9 Laser Rifle",
+  "fallout.gun.laser_pistol.desc": "The AER9 Laser Pistol",
+
+  "fallout.ammo.2mm_ec.name": "2mm EM shells",
+  "fallout.ammo.fusion_cell.name": "Fusion Cell",
+  "fallout.ammo.10mm.name": "10mm Bullet",
+  "actionbar.fallout.no_reload": "§cDisposable weapon, cannot reload!"
+}

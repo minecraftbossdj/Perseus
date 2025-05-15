@@ -1,0 +1,101 @@
+{
+  "name" : "carcano1891",
+  "type": "Gun",
+  "maxAmmoCapacity" : 6,
+  "maxAmmoPerReloadIteration" : 1,
+  "compatibleAmmo" : ["ammocreative", "6_5_52mm_carcano"],
+  "damage" : 21.5,
+  "rpm" : 60,
+  "fireModes" : ["SINGLE"],
+  "fireSound" : "carcanofire",
+  "drawCooldownDuration" : 800,
+  "aimingZoom" : 0.2,
+  "gunRecoilInitialAmplitude" : 1.3,
+  "shakeRecoilAmplitude" : 0.55,
+  "shakeRecoilSpeed" : 2,
+  "viewRecoilAmplitude" : 8,
+  "inspectCooldownDuration": 3700,
+  "muzzleFlashScale" : 2,
+  "phasedReloads": [
+    {
+      "phase": "PREPARING",
+      "condition": "reloadIterationIndex == -1",
+      "duration": 1290,
+      "animation": "animation.model.preparealt"
+    },
+    {
+      "phase": "PREPARING",
+      "condition": "reloadIterationIndex >= 0",
+      "duration": 1380,
+      "animation": "animation.model.prepare"
+    },
+    {
+      "phase": "RELOADING",
+      "condition": "reloadIterationIndex == 0",
+      "duration": 1130,
+      "animation": "animation.model.loadfirst",						
+      "shakeEffects": [
+        {
+          "start": 0,
+          "duration": 1000,
+          "initialAmplitude": 0.1,
+          "rateOfAmplitudeDecay": 0.8
+        },
+        {
+          "start": 400,
+          "duration": 600,
+          "initialAmplitude": 0.2,
+          "rateOfAmplitudeDecay": 0.5
+        }
+      ]
+    },
+    {
+      "phase": "RELOADING",
+      "condition": "reloadIterationIndex >= 1",
+      "duration": 1130,
+      "animation": "animation.model.load",
+      "shakeEffects": [
+        {
+          "start": 0,
+          "duration": 1500,
+          "initialAmplitude": 0.1,
+          "rateOfAmplitudeDecay": 0.8
+        },
+        {
+          "start": 300,
+          "duration": 500,
+          "initialAmplitude": 0.2,
+          "rateOfAmplitudeDecay": 0.3
+        },
+        {
+          "start": 800,
+          "duration": 600,
+          "initialAmplitude": 0.15,
+          "rateOfAmplitudeDecay": 0.4
+        },
+        {
+          "start": 1190,
+          "duration": 400,
+          "initialAmplitude": 0.2,
+          "rateOfAmplitudeDecay": 0.3
+        }
+      ]
+    },
+    {
+      "phase": "COMPLETETING",
+      "condition": "reloadIterationIndex >= 0",
+      "duration": 1130,
+      "animation": "animation.model.finish"
+    }
+  ],
+  "effects": [
+        {
+                   "phase": "hit_scan_acquired",
+                   "name": "tracerminigun"
+        },
+        {
+                   "phase": "firing",
+                   "name": "muzzle_flash"
+        }
+  ]
+}

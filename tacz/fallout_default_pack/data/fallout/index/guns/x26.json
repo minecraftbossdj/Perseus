@@ -1,0 +1,7 @@
+{
+    "name": "fallout.gun.x26.name",
+    "display": "fallout:x26_display",
+    "data": "fallout:x26_data",
+    "type": "pistol",
+    "tooltip": "fallout.gun.x26.desc"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "pointblank:default",
+  "ingredients": [
+    {
+      "count": 1,
+      "item": "pointblank:mosin1891"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:iron_axe"
+    }
+  ],
+  "result": {
+    "item": "pointblank:mosinskeletonobrez"
+  }
+}

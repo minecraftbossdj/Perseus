@@ -1,0 +1,99 @@
+{
+  "name" : "lewisgun",
+  "type": "Gun",
+  "maxAmmoCapacity" : 47,
+  "compatibleAmmo" : ["ammocreative", "303_british"],
+  "damage" : 12,
+  "rpm" : 480,
+  "fireModes" : ["SINGLE", "AUTOMATIC"],
+  "fireSound" : "lewisgunfire",
+  "drawCooldownDuration" : 500,
+  "aimingZoom" : 0.25,
+  "gunRecoilInitialAmplitude" : 1,
+  "shakeRecoilAmplitude" : 0.55,
+  "shakeRecoilSpeed" : 2,
+  "viewRecoilAmplitude" : 2,
+  "inspectCooldownDuration": 3700,
+  "phasedReloads": [
+    {
+      "phase": "RELOADING",
+      "condition": "reloadIterationIndex == 0",
+      "duration": 3580,
+      "animation": "animation.model.reloadempty",
+      "shakeEffects": [
+        {
+          "start": 0,
+          "duration": 1500,
+          "initialAmplitude": 0.2,
+          "rateOfAmplitudeDecay": 0.8
+        },
+        {
+          "start": 250,
+          "duration": 1000,
+          "initialAmplitude": 0.2,
+          "rateOfAmplitudeDecay": 0.5
+        },
+        {
+          "start": 800,
+          "duration": 1000,
+          "initialAmplitude": 0.15,
+          "rateOfAmplitudeDecay": 0.5
+        },
+        {
+          "start": 1100,
+          "duration": 600,
+          "initialAmplitude": 0.2,
+          "rateOfAmplitudeDecay": 0.3
+        },
+        {
+          "start": 1600,
+          "duration": 400,
+          "initialAmplitude": 0.35,
+          "rateOfAmplitudeDecay": 0.3
+        }
+      ]
+    },
+    {
+      "phase": "RELOADING",
+      "condition": "reloadIterationIndex > 0",
+      "duration": 2670,
+      "animation": "animation.model.reload",						
+      "shakeEffects": [
+        {
+          "start": 0,
+          "duration": 1500,
+          "initialAmplitude": 0.2,
+          "rateOfAmplitudeDecay": 0.8
+        },
+        {
+          "start": 600,
+          "duration": 1000,
+          "initialAmplitude": 0.15,
+          "rateOfAmplitudeDecay": 0.5
+        },
+        {
+          "start": 900,
+          "duration": 800,
+          "initialAmplitude": 0.17,
+          "rateOfAmplitudeDecay": 0.5
+        },
+        {
+          "start": 1000,
+          "duration": 400,
+          "initialAmplitude": 0.22,
+          "rateOfAmplitudeDecay": 0.6
+        }
+      ]
+    }
+  ],
+  "effects": [
+        {
+                   "phase": "hit_scan_acquired",
+                   "name": "tracerminigun"
+        },
+        {
+                   "phase": "firing",
+                   "name": "muzzle_flash"
+        }
+  ]
+}

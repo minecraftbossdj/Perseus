@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:repeater"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "forge:leather"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "forge:nuggets/iron"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 34
+    },
+    {
+      "item": {
+        "tag": "forge:slimeballs"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "fallout:dzj08",
+    "ammo_count": 1
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,8 @@
+{
+  "hidden": true,
+  "name": "fallout.attachment.scope_dzj08.name",
+  "tooltip": "fallout.attachment.scope_dzj08.tooltip",
+  "display": "fallout:scope_dzj08_display",
+  "data": "fallout:scope_dzj08_data",
+  "type": "scope"
+}

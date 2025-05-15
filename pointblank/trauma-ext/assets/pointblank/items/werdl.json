@@ -1,0 +1,70 @@
+{
+  "name" : "werdl",
+  "type": "Gun",
+  "maxAmmoCapacity" : 1,
+  "maxAmmoPerReloadIteration" : 1,
+  "compatibleAmmo" : ["ammocreative", "11_58mmr"],
+  "damage" : 40,
+  "rpm" : 23,
+  "fireModes" : ["SINGLE"],
+  "fireSound" : "henrymartinifire",
+  "drawCooldownDuration" : 800,
+  "aimingZoom" : 0.2,
+  "gunRecoilInitialAmplitude" : 1.3,
+  "shakeRecoilAmplitude" : 0.8,
+  "shakeRecoilSpeed" : 2,
+  "viewRecoilAmplitude" : 8,
+  "inspectCooldownDuration": 3700,
+  "prepareFireCooldownDuration": 40,
+  "muzzleFlashScale" : 2,
+  "phasedReloads": [
+    {
+      "phase": "RELOADING",
+      "condition": "reloadIterationIndex == 0",
+      "duration": 2540,
+      "animation": "animation.model.reload",
+      "shakeEffects": [
+        {
+          "start": 0,
+          "duration": 1500,
+          "initialAmplitude": 0.2,
+          "rateOfAmplitudeDecay": 0.8
+        },
+        {
+          "start": 250,
+          "duration": 1000,
+          "initialAmplitude": 0.2,
+          "rateOfAmplitudeDecay": 0.5
+        },
+        {
+          "start": 800,
+          "duration": 1000,
+          "initialAmplitude": 0.15,
+          "rateOfAmplitudeDecay": 0.5
+        },
+        {
+          "start": 1100,
+          "duration": 600,
+          "initialAmplitude": 0.2,
+          "rateOfAmplitudeDecay": 0.3
+        },
+        {
+          "start": 1600,
+          "duration": 400,
+          "initialAmplitude": 0.35,
+          "rateOfAmplitudeDecay": 0.3
+        }
+      ]
+    }
+  ],
+  "effects": [
+        {
+                   "phase": "hit_scan_acquired",
+                   "name": "tracerminigun"
+        },
+        {
+                   "phase": "firing",
+                   "name": "muzzle_flash"
+        }
+  ]
+}

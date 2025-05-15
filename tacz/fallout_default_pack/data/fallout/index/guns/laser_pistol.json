@@ -1,0 +1,7 @@
+{
+    "name": "fallout.gun.laser_pistol.name",
+    "display": "fallout:laser_pistol_display",
+    "data": "fallout:laser_pistol_data",
+    "type": "pistol",
+    "tooltip": "fallout.gun.laser_pistol.desc"
+}

@@ -1,0 +1,64 @@
+{
+    "model": "fallout:gun/assault_rifle_geo",
+    "texture": "fallout:gun/uv/assault_rifle",
+    "lod": {
+        "model": "fallout:gun/lod/assault_rifle_lod",
+        "texture": "fallout:gun/lod/assault_rifle_lod"
+    },
+    "hud": "fallout:gun/hud/assault_rifle",
+    "slot": "fallout:gun/slot/assault_rifle",
+    "animation": "fallout:assault_rifle",
+    "use_default_animation": "pistol",
+    "third_person_animation": "default",
+    "transform": {
+        "scale": {
+            "thirdperson": [1, 1, 1],
+            "ground": [1, 1, 1],
+            "fixed": [1.5, 1.5, 1.5]
+        }
+    },
+    "sounds": {
+        "shoot": "fallout:item/assault_rifle_fire",
+        "reload_empty": "fallout:item/assault_rifle_reload",
+        "reload_tactical": "fallout:item/assault_rifle_reload",
+        "inspect": "fallout:item/assault_rifle_inspect",
+        "inspect_empty": "fallout:item/assault_rifle_inspect",
+        "draw": "fallout:item/assault_rifle_draw",
+        "put_away": "fallout:item/assault_rifle_put_away",
+        "shoot_3p": "fallout:item/assault_rifle_fire_3p"
+    },
+    "shell": {
+      "initial_velocity": [5, 2, 1],
+      "random_velocity": [1, 1, 0.25],
+      "acceleration": [0.0, -10, 0.0],
+      "angular_velocity": [360, -1200, 90],
+      "living_time": 1.0
+    },
+    "offhand_show": {
+      "pos": [0, 18, 5],
+      "rotate": [-20, 0, 30],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "hotbar_show": {
+      "0": {
+        "pos": [-4, 24, 4],
+        "rotate": [-90, -5, -90],
+        "scale": [0.5, 0.5, 0.5]
+      },
+      "1": {
+        "pos": [-4, 24, 4],
+        "rotate": [-90, -5, -90],
+        "scale": [0.5, 0.5, 0.5]
+      },
+      "2": {
+        "pos": [-4, 24, 4],
+        "rotate": [-90, -5, -90],
+        "scale": [0.5, 0.5, 0.5]
+      },
+      "3": {
+        "pos": [-4, 24, 4],
+        "rotate": [-90, -5, -90],
+        "scale": [0.5, 0.5, 0.5]
+      }
+    }
+}

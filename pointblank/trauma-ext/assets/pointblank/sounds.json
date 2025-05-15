@@ -1,0 +1,434 @@
+{
+    "sample_assaultrifle": {
+        "sounds": [
+            {
+                "name": "pointblank:sample_assaultrifle",
+                "stream": false
+            }
+        ]
+    },
+    "sample_shotgun": {
+        "sounds": [
+            {
+                "name": "pointblank:sample_shotgun",
+                "stream": false
+            }
+        ]
+    },
+    "lebelfire": {
+        "sounds": [
+            {
+                "name": "pointblank:lebelfire",
+                "stream": false
+            }
+        ]
+    },
+    "lebelfinish": {
+        "sounds": [
+            {
+                "name": "pointblank:lebelfinish",
+                "stream": false
+            }
+        ]
+    },
+    "lebelprepare": {
+        "sounds": [
+            {
+                "name": "pointblank:lebelprepare",
+                "stream": false
+            }
+        ]
+    },
+    "boltsingleload": {
+        "sounds": [
+            {
+                "name": "pointblank:boltsingleload",
+                "stream": false
+            }
+        ]
+    },
+    "lebelload": {
+        "sounds": [
+            {
+                "name": "pointblank:lebelload",
+                "stream": false
+            }
+        ]
+    },
+    "m95firing": {
+        "sounds": [
+            {
+                "name": "pointblank:m95firing",
+                "stream": false
+            }
+        ]
+    },
+    "m95finish1": {
+        "sounds": [
+            {
+                "name": "pointblank:m95finish1",
+                "stream": false
+            }
+        ]
+    },
+    "m95prepare": {
+        "sounds": [
+            {
+                "name": "pointblank:m95prepare",
+                "stream": false
+            }
+        ]
+    },
+    "enfieldfire": {
+        "sounds": [
+            {
+                "name": "pointblank:enfieldfire",
+                "stream": false
+            }
+        ]
+    },
+    "enfieldfinish1": {
+        "sounds": [
+            {
+                "name": "pointblank:enfieldfinish1",
+                "stream": false
+            }
+        ]
+    },
+    "enfieldprepare": {
+        "sounds": [
+            {
+                "name": "pointblank:enfieldprepare",
+                "stream": false
+            }
+        ]
+    },
+    "mp18fire": {
+        "sounds": [
+            {
+                "name": "pointblank:mp18fire",
+                "stream": false
+            }
+        ]
+    },
+    "mp18load1": {
+        "sounds": [
+            {
+                "name": "pointblank:mp18load1",
+                "stream": false
+            }
+        ]
+    },
+    "mp18load2": {
+        "sounds": [
+            {
+                "name": "pointblank:mp18load2",
+                "stream": false
+            }
+        ]
+    },
+    "barfire": {
+        "sounds": [
+            {
+                "name": "pointblank:barfire",
+                "stream": false
+            }
+        ]
+    },
+    "barload1": {
+        "sounds": [
+            {
+                "name": "pointblank:barload1",
+                "stream": false
+            }
+        ]
+    },
+    "barload2": {
+        "sounds": [
+            {
+                "name": "pointblank:barload2",
+                "stream": false
+            }
+        ]
+    },
+    "henrymartinireload": {
+        "sounds": [
+            {
+                "name": "pointblank:henrymartinireload",
+                "stream": false
+            }
+        ]
+    },
+    "henrymartinifire": {
+        "sounds": [
+            {
+                "name": "pointblank:henrymartinifire",
+                "stream": false
+            }
+        ]
+    },
+    "gewehr98prepare": {
+        "sounds": [
+            {
+                "name": "pointblank:gewehr98prepare",
+                "stream": false
+            }
+        ]
+    },
+    "gewehr98fire": {
+        "sounds": [
+            {
+                "name": "pointblank:gewehr98fire",
+                "stream": false
+            }
+        ]
+    },
+    "gewehr98finish": {
+        "sounds": [
+            {
+                "name": "pointblank:gewehr98finish",
+                "stream": false
+            }
+        ]
+    },
+    "m1903prepare": {
+        "sounds": [
+            {
+                "name": "pointblank:m1903prepare",
+                "stream": false
+            }
+        ]
+    },
+    "m1903fire": {
+        "sounds": [
+            {
+                "name": "pointblank:m1903fire",
+                "stream": false
+            }
+        ]
+    },
+    "m1903finish": {
+        "sounds": [
+            {
+                "name": "pointblank:m1903finish",
+                "stream": false
+            }
+        ]
+    },
+    "madsenfire": {
+        "sounds": [
+            {
+                "name": "pointblank:madsenfire",
+                "stream": false
+            }
+        ]
+    },
+    "madsenreload": {
+        "sounds": [
+            {
+                "name": "pointblank:madsenreload",
+                "stream": false
+            }
+        ]
+    },
+    "madsenreloadempty": {
+        "sounds": [
+            {
+                "name": "pointblank:madsenreloadempty",
+                "stream": false
+            }
+        ]
+    },
+    "ribeyrollesfire": {
+        "sounds": [
+            {
+                "name": "pointblank:ribeyrollesfire",
+                "stream": false
+            }
+        ]
+    },
+    "ribeyrollesreload": {
+        "sounds": [
+            {
+                "name": "pointblank:ribeyrollesreload",
+                "stream": false
+            }
+        ]
+    },
+    "ribeyrollesreloadempty": {
+        "sounds": [
+            {
+                "name": "pointblank:ribeyrollesreloadempty",
+                "stream": false
+            }
+        ]
+    },
+    "werdlfire": {
+        "sounds": [
+            {
+                "name": "pointblank:werdlfire",
+                "stream": false
+            }
+        ]
+    },
+    "werdlreload": {
+        "sounds": [
+            {
+                "name": "pointblank:werdlreload",
+                "stream": false
+            }
+        ]
+    },
+    "hellriegelreload": {
+        "sounds": [
+            {
+                "name": "pointblank:hellriegelreload",
+                "stream": false
+            }
+        ]
+    },
+    "hellriegelreloadempty": {
+        "sounds": [
+            {
+                "name": "pointblank:hellriegelreloadempty",
+                "stream": false
+            }
+        ]
+    },
+    "hellriegelfire": {
+        "sounds": [
+            {
+                "name": "pointblank:hellriegelfire",
+                "stream": false
+            }
+        ]
+    },
+    "mosinfire": {
+        "sounds": [
+            {
+                "name": "pointblank:mosinfire",
+                "stream": false
+            }
+        ]
+    },
+    "mosinprepare": {
+        "sounds": [
+            {
+                "name": "pointblank:mosinprepare",
+                "stream": false
+            }
+        ]
+    },
+    "mosinfinish": {
+        "sounds": [
+            {
+                "name": "pointblank:mosinfinish",
+                "stream": false
+            }
+        ]
+    },
+    "m1907fire": {
+        "sounds": [
+            {
+                "name": "pointblank:m1907fire",
+                "stream": false
+            }
+        ]
+    },
+    "m1907reload": {
+        "sounds": [
+            {
+                "name": "pointblank:m1907reload",
+                "stream": false
+            }
+        ]
+    },
+    "m1907reloadempty": {
+        "sounds": [
+            {
+                "name": "pointblank:m1907reloadempty",
+                "stream": false
+            }
+        ]
+    },
+    "obrezskeletonfire": {
+        "sounds": [
+            {
+                "name": "pointblank:obrezskeletonfire",
+                "stream": false
+            }
+        ]
+    },
+    "tankgewehrfire": {
+        "sounds": [
+            {
+                "name": "pointblank:tankgewehrfire",
+                "stream": false
+            }
+        ]
+    },
+    "tankgewehrreload": {
+        "sounds": [
+            {
+                "name": "pointblank:tankgewehrreload",
+                "stream": false
+            }
+        ]
+    },
+    "lewisgunfire": {
+        "sounds": [
+            {
+                "name": "pointblank:lewisgunfire",
+                "stream": false
+            }
+        ]
+    },
+    "lewisgunreload": {
+        "sounds": [
+            {
+                "name": "pointblank:lewisgunreload",
+                "stream": false
+            }
+        ]
+    },
+    "lewisgunreloadempty": {
+        "sounds": [
+            {
+                "name": "pointblank:lewisgunreloadempty",
+                "stream": false
+            }
+        ]
+    },
+    "carcanofinish": {
+        "sounds": [
+            {
+                "name": "pointblank:carcanofinish",
+                "stream": false
+            }
+        ]
+    },
+    "carcanofire": {
+        "sounds": [
+            {
+                "name": "pointblank:carcanofire",
+                "stream": false
+            }
+        ]
+    },
+    "carcanoprepare": {
+        "sounds": [
+            {
+                "name": "pointblank:carcanoprepare",
+                "stream": false
+            }
+        ]
+    },
+    "sample_sniper": {
+        "sounds": [
+            {
+                "name": "pointblank:sample_sniper",
+                "stream": false
+            }
+        ]
+    }
+}

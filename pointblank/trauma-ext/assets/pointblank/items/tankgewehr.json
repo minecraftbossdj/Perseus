@@ -1,0 +1,69 @@
+{
+  "name" : "tankgewehr",
+  "type": "Gun",
+  "maxAmmoCapacity" : 1,
+  "maxAmmoPerReloadIteration" : 1,
+  "compatibleAmmo" : ["ammocreative", "13_2mmtuf"],
+  "damage" : 80.5,
+  "rpm" : 25,
+  "fireModes" : ["SINGLE"],
+  "fireSound" : "tankgewehrfire",
+  "drawCooldownDuration" : 800,
+  "aimingZoom" : 0.4,
+  "gunRecoilInitialAmplitude" : 2,
+  "shakeRecoilAmplitude" : 1.5,
+  "shakeRecoilSpeed" : 4,
+  "viewRecoilAmplitude" : 12,
+  "inspectCooldownDuration": 3700,
+  "muzzleFlashScale" : 6,
+  "phasedReloads": [
+    {
+      "phase": "RELOADING",
+      "condition": "reloadIterationIndex == 0",
+      "duration": 2880,
+      "animation": "animation.model.reload",
+      "shakeEffects": [
+        {
+          "start": 0,
+          "duration": 1500,
+          "initialAmplitude": 0.2,
+          "rateOfAmplitudeDecay": 0.8
+        },
+        {
+          "start": 250,
+          "duration": 1000,
+          "initialAmplitude": 0.2,
+          "rateOfAmplitudeDecay": 0.5
+        },
+        {
+          "start": 800,
+          "duration": 1000,
+          "initialAmplitude": 0.15,
+          "rateOfAmplitudeDecay": 0.5
+        },
+        {
+          "start": 1100,
+          "duration": 600,
+          "initialAmplitude": 0.2,
+          "rateOfAmplitudeDecay": 0.3
+        },
+        {
+          "start": 1600,
+          "duration": 400,
+          "initialAmplitude": 0.35,
+          "rateOfAmplitudeDecay": 0.3
+        }
+      ]
+    }
+  ],
+  "effects": [
+        {
+                   "phase": "hit_scan_acquired",
+                   "name": "tracerminigun"
+        },
+        {
+                   "phase": "firing",
+                   "name": "muzzle_flash"
+        }
+  ]
+}

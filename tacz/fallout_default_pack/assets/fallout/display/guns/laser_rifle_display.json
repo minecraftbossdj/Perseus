@@ -1,0 +1,64 @@
+{
+    "model": "fallout:gun/laser_rifle_geo",
+    "texture": "fallout:gun/uv/laser",
+    "lod": {
+        "model": "fallout:gun/lod/laser_rifle_lod",
+        "texture": "fallout:gun/lod/laser_rifle_lod"
+    },
+    "hud": "fallout:gun/hud/laser_rifle",
+    "slot": "fallout:gun/slot/laser_rifle",
+    "animation": "fallout:laser",
+    "use_default_animation": "pistol",
+    "third_person_animation": "default",
+    "transform": {
+        "scale": {
+            "thirdperson": [1, 1, 1],
+            "ground": [1, 1, 1],
+            "fixed": [1.5, 1.5, 1.5]
+        }
+    },
+    "sounds": {
+      "shoot": "fallout:item/laser_rifle_fire",
+      "reload_empty": "fallout:item/laser_reload",
+      "reload_tactical": "fallout:item/laser_reload",
+      "inspect": "fallout:item/laser_inspect",
+      "inspect_empty": "fallout:item/laser_inspect",
+      "draw": "fallout:item/laser_rifle_draw",
+      "put_away": "fallout:item/laser_put_away",
+      "shoot_3p": "fallout:item/laser_rifle_fire_3p"
+    },
+    "shell": {
+      "initial_velocity": [5, 2, 1],
+      "random_velocity": [1, 1, 0.25],
+      "acceleration": [0.0, -10, 0.0],
+      "angular_velocity": [360, -1200, 90],
+      "living_time": 1.0
+    },
+    "offhand_show": {
+      "pos": [0, 18, 5],
+      "rotate": [-20, 0, 30],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "hotbar_show": {
+      "0": {
+        "pos": [-4, 24, 4],
+        "rotate": [-90, -5, -90],
+        "scale": [0.5, 0.5, 0.5]
+      },
+      "1": {
+        "pos": [-4, 24, 4],
+        "rotate": [-90, -5, -90],
+        "scale": [0.5, 0.5, 0.5]
+      },
+      "2": {
+        "pos": [-4, 24, 4],
+        "rotate": [-90, -5, -90],
+        "scale": [0.5, 0.5, 0.5]
+      },
+      "3": {
+        "pos": [-4, 24, 4],
+        "rotate": [-90, -5, -90],
+        "scale": [0.5, 0.5, 0.5]
+      }
+    }
+}

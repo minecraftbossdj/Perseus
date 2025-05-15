@@ -1,0 +1,28 @@
+{
+  "pack.fallout.fallout.name": "废土辐尘-附属包",
+  "pack.fallout.fallout.desc": "战争，战争永不改变",
+
+
+  "fallout.gun.gauss_rifle.name": "高斯步枪",
+  "fallout.gun.x26.name": "X26电击枪",
+  "fallout.gun.dzj08.name": "DZJ-08式80MM火箭筒",
+  "fallout.gun.10mm_pistol.name": "10mm手枪",
+  "fallout.gun.qlz87.name": "中国榴弹发射器",
+  "fallout.gun.assault_rifle.name": "突击步枪",
+  "fallout.gun.laser_rifle.name": "激光步枪",
+  "fallout.gun.laser_pistol.name": "激光手枪",
+
+  "fallout.gun.gauss_rifle.desc": "一款高效的动力装甲开罐器",
+  "fallout.gun.x26.desc": "战前的自卫武器",
+  "fallout.gun.dzj08.desc": "攻坚破楼的不二之选\n一次性武器！",
+  "fallout.gun.10mm_pistol.desc": "10毫米手枪体积小、性能可靠、威力适中\n自大战以来，一直是废土战斗的主力武器",
+  "fallout.gun.qlz87.desc": "战前中国军队遗留下的制式榴弹发射器",
+  "fallout.gun.assault_rifle.desc": "联邦中最常见的武器之一，\n深受掠夺者、枪手、超级变种人喜爱",
+  "fallout.gun.laser_rifle.desc": "AER9激光步枪",
+  "fallout.gun.laser_pistol.desc": "AER9激光手枪",
+
+  "fallout.ammo.2mm_ec.name": "2mm电磁弹",
+  "fallout.ammo.fusion_cell.name": "核融合电池",
+  "fallout.ammo.10mm.name": "10mm 手枪弹",
+  "actionbar.fallout.no_reload": "§c一次性武器，无法装填！"
+}

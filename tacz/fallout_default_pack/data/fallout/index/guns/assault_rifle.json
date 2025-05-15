@@ -1,0 +1,7 @@
+{
+    "name": "fallout.gun.assault_rifle.name",
+    "display": "fallout:assault_rifle_display",
+    "data": "fallout:assault_rifle_data",
+    "type": "rifle",
+    "tooltip": "fallout.gun.assault_rifle.desc"
+}

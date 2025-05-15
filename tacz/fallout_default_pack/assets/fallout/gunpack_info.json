@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "name": "pack.fallout.fallout.name",
+  "desc": "pack.fallout.fallout.desc",
+  "license": "ARR",
+  "authors": [
+    "LesRaisins Team"
+  ],
+  "date": "2024-06-01"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "pointblank:default",
+  "ingredients": [
+    {
+      "count": 2,
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "count": 1,
+      "tag": "forge:gunpowder"
+    }
+  ],
+  "result": {
+    "count": 14,
+    "item": "pointblank:30_06_springfield"
+  }
+}
