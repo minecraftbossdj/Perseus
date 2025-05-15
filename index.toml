@@ -9,12 +9,20 @@ file = "mods/Connector-1.0.0-beta.46+1.20.1.jar"
 hash = "79d58fd7ced77df600eefc927adbbd8e217c2d6b0778c17aa8b27756703145ac"
 
 [[files]]
+file = "mods/Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar"
+hash = "c2e52676be3b3d1c04bb96cc0e6b966fb48342216fcd3658c79c43ae5537933d"
+
+[[files]]
 file = "mods/Cuffed-1.20.1-1.3.8.jar"
 hash = "dc40194a204b7150b6c28e40339669e883368268a8d5107c7fa9f9ca195d5fbd"
 
 [[files]]
 file = "mods/VMod-Forge-1.20.1-1.1.0.jar"
 hash = "1e991502e0127a94b3afc1b964f2ca6eb7532733b825aded101f203ec30c2447"
+
+[[files]]
+file = "mods/Warium 0.2.1.jar"
+hash = "9e2c8537fb3fbc4f0eb126762458330442bea8c26dedfd57dbe146ba3a9b83c3"
 
 [[files]]
 file = "mods/[1.20.1 Forge]Some-Peripherals-0.0.12.jar"
@@ -204,11 +212,6 @@ hash = "55e774a83edf2998fd3cb94a5a8e848648e2ea102d4cd689924b56424ff93f33"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "aa383802afb154b1cf46efff75fc581f73a81f45db28592f264a95c4fd6400a7"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "de9a6d80b48e8d99fb561a94a0d28941327c91620a6c1f76af29af370df0925a"
 metafile = true
@@ -298,6 +301,10 @@ hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
 metafile = true
 
 [[files]]
+file = "mods/design_decor-0.4.0b-1.20.1.jar"
+hash = "537a723c6a02a748372a800e20c02892f0d0fcbd39c12242b6bf8f5fbf14c55a"
+
+[[files]]
 file = "mods/drive-by-wire.pw.toml"
 hash = "66480dff746d968c27d6597f8861459fa8598a5f3880bf30bc317c1837a19859"
 metafile = true
@@ -343,9 +350,8 @@ hash = "7e9f418a9012dc32a7d804b0eccea148afd6605829ed13536089ad190800c132"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "e7ed0150a449e0669ff43ffcfe56eafd8b92823e27377999075e824fbc8d3a9d"
-metafile = true
+file = "mods/entityculling-forge-1.7.4-mc1.20.1.jar"
+hash = "0ccae2ab627bf863bfa5557403ad238fa4eb5986674d4bf8602d6ad231716068"
 
 [[files]]
 file = "mods/essential-mod.pw.toml"
@@ -418,9 +424,8 @@ hash = "c727cdfb22c0a34cafbdb2e33da7504e6aa9e96a0d78e5d913bf5fa9006d44c7"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-recoloured.pw.toml"
-hash = "eeb686993eeab4daf934079946966780ba7d367c41316e5febcda85059b4f85e"
-metafile = true
+file = "mods/ftb-chunks-modded-1.20+1.1.9.jar"
+hash = "ac1c0d687867b98ce9c1f86e70bc112e9a1e07b654f21bdcadcb0fa40c090dbb"
 
 [[files]]
 file = "mods/ftb-essentials.pw.toml"
@@ -713,9 +718,8 @@ hash = "a84f8e46ba2d693bfbdec682ca66213e2e0783395c9af34f8b22d460d3952a4c"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "4c1d37d3aecc6d67ce6c6a97d859345cdaefcf619a057069b0a8635f2ad551ac"
-metafile = true
+file = "mods/servercore-forge-1.5.2+1.20.1.jar"
+hash = "d9ad4f456b6c36bac17a71cd12935fdccae69ca1e1fcd33857210758cb58e586"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
@@ -829,11 +833,6 @@ metafile = true
 [[files]]
 file = "mods/warborn-resurgence.pw.toml"
 hash = "007f6b76d80d519b4c5a16c80ba4bc9a8247a7c4da39dd9339604e0291586639"
-metafile = true
-
-[[files]]
-file = "mods/warium.pw.toml"
-hash = "6f4a0b879fa20f190de2b286b2416417f6ce816e84318f419c142c9f5cdb2e8c"
 metafile = true
 
 [[files]]
