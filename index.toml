@@ -177,6 +177,11 @@ hash = "21254d2f33cfc9b90b304a3aeacff5572cf78729c0fb93a3103a80a445f7c791"
 metafile = true
 
 [[files]]
+file = "mods/control-craft.pw.toml"
+hash = "344299d27bd522a5cf10c11875b991e512372b905ac576bbecfb5f439938f62c"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "7f1d3e42575ce9970798e0453d9b42ae5584396ba4c166d0e43717ced269efdd"
 metafile = true
@@ -835,10 +840,6 @@ metafile = true
 file = "mods/vpb-automation.pw.toml"
 hash = "2ed29163acd299d3237403b423d5aef9ebc804f3b1d8c9aa3394a2b934796e8b"
 metafile = true
-
-[[files]]
-file = "mods/vscontrolcraft-1.0.14-all.jar"
-hash = "14f06307bbdc5601a44c97f176b3280441159cce2854d8f3178eee0f254e5daf"
 
 [[files]]
 file = "mods/vulcanocraft-cc-tweaked.pw.toml"
