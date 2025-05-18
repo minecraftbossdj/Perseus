@@ -1,0 +1,13 @@
+name = "Control Craft"
+filename = "Control Craft Forge-1.20.1-2.2.1-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QCUnCyr8/versions/ZANfJnvI/Control%20Craft%20Forge-1.20.1-2.2.1-all.jar"
+hash-format = "sha512"
+hash = "ed054ae1030f2d91a3eb13972441db7e7e5162f28501546243c34e3285eb4266dbd28992b552f2711d912f19d6d411a368a2fc5ebbc717d647655f4754a7b1a3"
+
+[update]
+[update.modrinth]
+mod-id = "QCUnCyr8"
+version = "ZANfJnvI"

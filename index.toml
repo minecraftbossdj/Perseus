@@ -94,10 +94,6 @@ hash = "2868855bd6b90b1fad1c3210715fc403029f4e66368a7100854aed359005d2e4"
 metafile = true
 
 [[files]]
-file = "mods/atlas-1.0.0-build3-beta3-all.jar"
-hash = "8002a492a2e45e41c7bb75a570105dc2291b34f998dc6a74ea03e77c70f208d3"
-
-[[files]]
 file = "mods/bdlib.pw.toml"
 hash = "e5b7acb02ebaf1acab5870799773259748be6f840b7efec973c7da0758a86392"
 metafile = true
@@ -116,10 +112,6 @@ metafile = true
 file = "mods/brandons-core.pw.toml"
 hash = "9f2a946f225c8712a16f8a728e35d523781235974d6d9f0d09373562a5df7435"
 metafile = true
-
-[[files]]
-file = "mods/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "99dbce6aa6827a777d78a898cd6b8d7c7d9ae1d1fd41b813750eefaead8c9c8d"
 
 [[files]]
 file = "mods/catalogue.pw.toml"
@@ -683,11 +675,6 @@ hash = "8ff6c7e48c75feffd68723e4d8c3dc6612c4845487757463826baec78667c79d"
 metafile = true
 
 [[files]]
-file = "mods/plants-vs-zombies-additions.pw.toml"
-hash = "649bea30c362bde1bdf731257a8f3b3337f788f89ee58fafdc986482727ff6a6"
-metafile = true
-
-[[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "6208fb5a8e0d42ff78f11486ba63e8c50ffa55b406a366f74feb0bb42dacee9b"
 metafile = true
@@ -850,6 +837,10 @@ metafile = true
 file = "mods/vs-addition.pw.toml"
 hash = "a98d504853088be7244fb292a1ccc8cdd0dbe2bf289ab4e420328122ac58d58e"
 metafile = true
+
+[[files]]
+file = "mods/vs_overdrive-1.0.0-build1-beta1-all.jar"
+hash = "3a92fec6142e763d581951247ce80ebde8a0e605be0a94fc869d6c192630f3cc"
 
 [[files]]
 file = "mods/vulcanocraft-cc-tweaked.pw.toml"
