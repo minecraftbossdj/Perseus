@@ -683,6 +683,11 @@ hash = "8ff6c7e48c75feffd68723e4d8c3dc6612c4845487757463826baec78667c79d"
 metafile = true
 
 [[files]]
+file = "mods/plants-vs-zombies-additions.pw.toml"
+hash = "649bea30c362bde1bdf731257a8f3b3337f788f89ee58fafdc986482727ff6a6"
+metafile = true
+
+[[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "6208fb5a8e0d42ff78f11486ba63e8c50ffa55b406a366f74feb0bb42dacee9b"
 metafile = true
@@ -839,6 +844,11 @@ metafile = true
 [[files]]
 file = "mods/vpb-automation.pw.toml"
 hash = "2ed29163acd299d3237403b423d5aef9ebc804f3b1d8c9aa3394a2b934796e8b"
+metafile = true
+
+[[files]]
+file = "mods/vs-addition.pw.toml"
+hash = "a98d504853088be7244fb292a1ccc8cdd0dbe2bf289ab4e420328122ac58d58e"
 metafile = true
 
 [[files]]
