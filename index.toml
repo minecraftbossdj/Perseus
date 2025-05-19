@@ -479,6 +479,10 @@ hash = "2f6c57a2e8964e734b611d46d3f1a3f9125ffcd10840489356be28428e178c04"
 metafile = true
 
 [[files]]
+file = "mods/grapplemod-1.99.0+1.20.1.beta.fabric.jar"
+hash = "5ba39a69266c8676974e4c26cb1d9bd5e2b94ef815dc451920f5026e443dd6da"
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "856841ecaebd000f236bfad02809cb48c1e421e1a0a8e892e943541adf5f23ba"
 metafile = true
@@ -843,8 +847,12 @@ hash = "a98d504853088be7244fb292a1ccc8cdd0dbe2bf289ab4e420328122ac58d58e"
 metafile = true
 
 [[files]]
-file = "mods/vs_overdrive-1.0.1-build1-beta1-all.jar"
-hash = "746f2531783fb65a18a0dc7f49129cf8542a9a802849b2f62807fedecabaae64"
+file = "mods/vs_overdrive-1.1.0-build1-beta1-all.jar"
+hash = "2ebee1147e8efd49b1f6f08ef2279c1f42c2a4c95b0130b75444155986fa779e"
+
+[[files]]
+file = "mods/vsgrapples-0.1.0.jar"
+hash = "f34191f9b69227036b7cdd70ead0d101974740b91803bd011867cc9da2a65947"
 
 [[files]]
 file = "mods/vulcanocraft-cc-tweaked.pw.toml"
