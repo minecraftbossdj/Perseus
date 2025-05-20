@@ -94,10 +94,6 @@ hash = "2868855bd6b90b1fad1c3210715fc403029f4e66368a7100854aed359005d2e4"
 metafile = true
 
 [[files]]
-file = "mods/atlas-1.0.0-build3-beta3-all.jar"
-hash = "8002a492a2e45e41c7bb75a570105dc2291b34f998dc6a74ea03e77c70f208d3"
-
-[[files]]
 file = "mods/bdlib.pw.toml"
 hash = "e5b7acb02ebaf1acab5870799773259748be6f840b7efec973c7da0758a86392"
 metafile = true
