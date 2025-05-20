@@ -94,6 +94,11 @@ hash = "2868855bd6b90b1fad1c3210715fc403029f4e66368a7100854aed359005d2e4"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "4439e1b9d2a828841dc521295308836fb16d8a9ea37ec998fe7593eb7399c9e6"
+metafile = true
+
+[[files]]
 file = "mods/bdlib.pw.toml"
 hash = "e5b7acb02ebaf1acab5870799773259748be6f840b7efec973c7da0758a86392"
 metafile = true
@@ -179,8 +184,18 @@ hash = "7f1d3e42575ce9970798e0453d9b42ae5584396ba4c166d0e43717ced269efdd"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "beae80d4ccdf81e78774044b3913e3d007426c5a0bed2397f9b905219afa9d7e"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "fd6d1ac8127ec2a003fcf82194f2eae244455ebb999284861f37b763a7f25524"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "41fc2f21422cff66da8163bfc3410242b3a68ced49597b2a37f5f7d937ecb636"
 metafile = true
 
 [[files]]
@@ -584,6 +599,11 @@ hash = "9e7342b1a163e32dc9c101d64787a760314588019fd6f4cbc555a742b35e4ac0"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "825d54d419ac6d2a93f60399067822917af2f85a4e9dd97b340bbf2488b94e24"
 metafile = true
@@ -672,6 +692,14 @@ metafile = true
 file = "mods/peripheralium.pw.toml"
 hash = "3566c8340f5f22a1dcc0edc4f1f49e8ec58d4a17ca393e363797331c3f9d571b"
 metafile = true
+
+[[files]]
+file = "mods/petrolpark-1.20.1-1.4.2-all.jar"
+hash = "07f57a948065f60477c0666e7d33dfa147046f9762cb18890652e9e04c57c81d"
+
+[[files]]
+file = "mods/petrolsparts-1.20.1-1.1.5.jar"
+hash = "733399e6f17f0935f2cd5b1f05eae52821ee7083bc19a6a965ce4b648c4a2a8c"
 
 [[files]]
 file = "mods/placebo.pw.toml"
