@@ -694,14 +694,6 @@ hash = "3566c8340f5f22a1dcc0edc4f1f49e8ec58d4a17ca393e363797331c3f9d571b"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark-1.20.1-1.4.2-all.jar"
-hash = "07f57a948065f60477c0666e7d33dfa147046f9762cb18890652e9e04c57c81d"
-
-[[files]]
-file = "mods/petrolsparts-1.20.1-1.1.5.jar"
-hash = "733399e6f17f0935f2cd5b1f05eae52821ee7083bc19a6a965ce4b648c4a2a8c"
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "8ff6c7e48c75feffd68723e4d8c3dc6612c4845487757463826baec78667c79d"
 metafile = true

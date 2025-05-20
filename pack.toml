@@ -1,12 +1,12 @@
 name = "Perseus"
 author = "minecraftbossdj"
-version = "4.1.0"
+version = "6.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8ca3d4164e295ad6953c12de7212ee110e767948f2095f88a2f9a0fca83b7167"
+hash = "23aca1015f864432e0fcb0e2b5f5efd6d66c210f844f62ca077f0289aeab5cf0"
 
 [versions]
 forge = "47.4.0"
