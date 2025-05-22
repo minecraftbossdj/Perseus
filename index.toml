@@ -33,8 +33,8 @@ file = "mods/Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar"
 hash = "c2e52676be3b3d1c04bb96cc0e6b966fb48342216fcd3658c79c43ae5537933d"
 
 [[files]]
-file = "mods/Cuffed-1.20.1-1.3.8.jar"
-hash = "dc40194a204b7150b6c28e40339669e883368268a8d5107c7fa9f9ca195d5fbd"
+file = "mods/Cuffed-1.20.1-1.4.0.jar"
+hash = "3cb632d3498a83fb7d06c76f2d00edce9f828169030d802fda61940c8395c32e"
 
 [[files]]
 file = "mods/VMod-Forge-1.20.1-1.1.0.jar"
@@ -786,6 +786,10 @@ metafile = true
 file = "mods/sophisticated-core.pw.toml"
 hash = "cd7cb43c6c99e81a57e4c68e7541e738437a0e421f84cbfde2ccdedfd465a22d"
 metafile = true
+
+[[files]]
+file = "mods/sophisticatedstorage-1.20.1-1.3.44.1157.jar"
+hash = "2668a1b1b2c9ec84768697bf66a2995969c674e3839625230ccc60947837b2b2"
 
 [[files]]
 file = "mods/spark.pw.toml"
