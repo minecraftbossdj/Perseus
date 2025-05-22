@@ -3,8 +3,8 @@ filename = "figura-0.1.5+1.20.1-forge-mc.jar"
 side = "client"
 
 [download]
-hash-format = "sha256"
-hash = "f1820f219aefcf1a75cc203cd2a2115bc06696bf9e18b38f8aef308062c532d3"
+hash-format = "sha1"
+hash = "7388a40f4c86c1af73c452b2eaf92893205c3dec"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "JadeAddons-1.20.1-Forge-5.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "a14d9ad7479249265ec01a3213ee0cb462d647634c38faacc975690d98e9bdd2"
+hash-format = "sha1"
+hash = "140a393ae43519bcb9018a7e00c300f930d659dc"
 mode = "metadata:curseforge"
 
 [update]

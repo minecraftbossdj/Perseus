@@ -3,8 +3,8 @@ filename = "createaddition-1.20.1-1.2.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "e6277dc5f058cccd55ed4aa802a00faf44fc5e8d0d9ecf57928c4a412123aa92"
+hash-format = "sha1"
+hash = "956186484bab4eeee5eb0250e5509f1e01ad5094"
 mode = "metadata:curseforge"
 
 [update]
