@@ -3,8 +3,8 @@ filename = "emi-1.1.22+1.20.1+forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "877a2831c44ab7a0e1f8da0df92125b42f93c6f9b9e4dd1ceb566d8adc67950a"
+hash-format = "sha1"
+hash = "d8049d6ec86befcd100a0ff0fc8ebc289f735997"
 mode = "metadata:curseforge"
 
 [update]

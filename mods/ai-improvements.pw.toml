@@ -3,8 +3,8 @@ filename = "AI-Improvements-1.20-0.5.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "575a4a8e00f982c064d54bb3e73e5cda2d14414de054a471a3daf3f58bdf560a"
+hash-format = "sha1"
+hash = "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8"
 mode = "metadata:curseforge"
 
 [update]

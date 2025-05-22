@@ -3,8 +3,8 @@ filename = "IntegratedScripting-1.20.1-1.0.13.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "007b927561e05fbee2d77ed07874b46ea6983e2cae325f8b8c31c5f16ac30087"
+hash-format = "sha1"
+hash = "60b06f32ec2284589963bd539338c136caa7bf07"
 mode = "metadata:curseforge"
 
 [update]

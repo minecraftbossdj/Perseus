@@ -3,8 +3,8 @@ filename = "cbc_at_Forge_1.20.1_0.1.2a.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "592fb350aaba8780e0a84f560f289f2dd84b4e7256f05a2035a5afe7ee805b62"
+hash-format = "sha1"
+hash = "137de8ef0e9b430a8a43476f8d57f8403b8c1b78"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "AE2-Things-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "6a900a8e4411f9c2653a38cdabbf503cf89766b289120a5f3599282120d2abc3"
+hash-format = "sha1"
+hash = "9862284af52931df937980f199a401bfe6651587"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "Steam_Rails-1.6.7+forge-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "42a153910c6c528492936b2736516b3431bb69a4b93c63e855b850dc3ab2b88d"
+hash-format = "sha1"
+hash = "7449e9cbaae6a23a31127a3cf0886899c28639dc"
 mode = "metadata:curseforge"
 
 [update]

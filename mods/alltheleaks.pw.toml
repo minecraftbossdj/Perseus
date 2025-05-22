@@ -3,8 +3,8 @@ filename = "alltheleaks-0.1.4-beta+1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "2cb18f1d7ab35eb0c60898b7ae6cc7c66140705f4bbc7db9bbb2b16433c7b79b"
+hash-format = "sha1"
+hash = "31064c1cebcc90d9e914f1e17a5530385e14544d"
 mode = "metadata:curseforge"
 
 [update]
