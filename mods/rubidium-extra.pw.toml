@@ -3,8 +3,8 @@ filename = "rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "bb422d5626bf69841e444a3e545c8e71b6928cf8"
+hash-format = "sha256"
+hash = "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da"
 mode = "metadata:curseforge"
 
 [update]

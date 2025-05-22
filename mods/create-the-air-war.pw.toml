@@ -3,8 +3,8 @@ filename = "create_the_air_wars-1.04-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "96a80b95ba09d97383c9671e2dc459c7cab36bcc"
+hash-format = "sha256"
+hash = "3565f73c841058a07fe821864916babdd0e5d088d216d2201aa0e3fb0dc06bff"
 mode = "metadata:curseforge"
 
 [update]

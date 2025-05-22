@@ -3,8 +3,8 @@ filename = "DripSounds-1.19.4-0.3.2.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "e91743f0e4a1b8d2e1b795f3ccd4bd4190f5d4c3"
+hash-format = "sha256"
+hash = "bac12d4f22f571fc887bc662266c628b47fa296e41116de839dc8963051ed4ec"
 mode = "metadata:curseforge"
 
 [update]

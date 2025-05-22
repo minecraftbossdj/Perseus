@@ -3,8 +3,8 @@ filename = "playingcards-2.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8d590a5b33cf9ffa72f0a27e6cc9f863da716067"
+hash-format = "sha256"
+hash = "4af269740f49c3a2364def63b122e1f9494da70a7d3686d8b81c6ef6078c7f08"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "NumismaticBounties-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "daa4eac068602cff65da91c2a5e0d303948b9cb8"
+hash-format = "sha256"
+hash = "33be9c10cd34a8eb8775a5af55c1d3141f121cb1568fe69f5226ab66d804dba3"
 mode = "metadata:curseforge"
 
 [update]

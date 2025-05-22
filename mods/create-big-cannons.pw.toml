@@ -3,8 +3,8 @@ filename = "createbigcannons-5.8.2-mc.1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9e5418f72c4138c4e6bfc2ca848e64ee61ab5445"
+hash-format = "sha256"
+hash = "66455fe5c503f018056e69efc462f418957957bfa5d9d7068873a02386190c9e"
 mode = "metadata:curseforge"
 
 [update]

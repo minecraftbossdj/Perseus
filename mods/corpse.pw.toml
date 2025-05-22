@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WrpuIfhw/versions/COpemDNs/corpse-forge-1.20.1-1.0.20.jar"
-hash-format = "sha1"
-hash = "0c99a369d3e0fb20a1da625edf30668642539690"
+hash-format = "sha256"
+hash = "68d846adb9e7ea06b1823fd93810d464fddc42aa977511b6b9bbef913556178d"
 
 [update]
 [update.modrinth]

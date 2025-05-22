@@ -3,8 +3,8 @@ filename = "valkyrienskies-120-2.3.0-beta.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cf2ad09ca6b53f621b2a6af507ccacbc88fbba5a"
+hash-format = "sha256"
+hash = "11c2b59f44336c3a8c124e34b76e57fb42c9cc96147df814778b86e238862f4e"
 mode = "metadata:curseforge"
 
 [update]
