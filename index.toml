@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "4439e1b9d2a828841dc521295308836fb16d8a9ea37ec998fe7593eb7399c9e6"
+hash = "e5a9c700792215de1ba56f46eb19f6d1f8adb58712741a8edde97c4cdf8f9cdc"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/control-craft.pw.toml"
-hash = "344299d27bd522a5cf10c11875b991e512372b905ac576bbecfb5f439938f62c"
+hash = "452fdc1b9d9901e125348e3df3e6f8ff33ea93a7a7ee9d0ef6f0b6da53f819d9"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
-hash = "beae80d4ccdf81e78774044b3913e3d007426c5a0bed2397f9b905219afa9d7e"
+hash = "2120c7172815edacad5631b2861eeb298a425b9cdb4c79e0361396344c3f1a24"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "41fc2f21422cff66da8163bfc3410242b3a68ced49597b2a37f5f7d937ecb636"
+hash = "c80a24f874b5e349cfbb692648e1ceae88b82ad838d98756cf75445eed76cbb9"
 metafile = true
 
 [[files]]
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
+hash = "d396e7f5645e9fb6c37270c44e521a3a9069e5dd691cf1e9ea5086d9d72d5c55"
 metafile = true
 
 [[files]]
@@ -861,7 +861,7 @@ metafile = true
 
 [[files]]
 file = "mods/vs-addition.pw.toml"
-hash = "a98d504853088be7244fb292a1ccc8cdd0dbe2bf289ab4e420328122ac58d58e"
+hash = "682f49a80aaabc521f9fec10dc2aabbbbd10d46de49d0e87258724cc32638356"
 metafile = true
 
 [[files]]
