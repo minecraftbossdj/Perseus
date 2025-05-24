@@ -21,6 +21,10 @@ file = "kubejs/server_scripts/somePeripherals.js"
 hash = "41f15309b4cfeb6317901d1a3e603c88e847d8f062b3f6a3f7b163a56c548d8f"
 
 [[files]]
+file = "mods/AdvancedPeripherals-1.20.1-0.7.40r.jar"
+hash = "2f3e35534bdc4c6e31a87b121f6b8e75373607707055210d906e34334f4c9b39"
+
+[[files]]
 file = "mods/ClockworkAdditions-1.20.1-0.0.7-forge-and-fabric.jar"
 hash = "3eb085b83d201d6ba3a9bc3b84fed70b36a252f7cbff6611af7648b2491a79f6"
 
@@ -41,17 +45,16 @@ file = "mods/VMod-Forge-1.20.1-1.1.0.jar"
 hash = "1e991502e0127a94b3afc1b964f2ca6eb7532733b825aded101f203ec30c2447"
 
 [[files]]
+file = "mods/ValkyrienWeightlifting-0.2-connectorfix.jar"
+hash = "259eda6016cf4710d94daa7ad76bdd5089f52603ceaab5e7fe4359a4b0b620b5"
+
+[[files]]
 file = "mods/Warium 0.2.1.jar"
 hash = "9e2c8537fb3fbc4f0eb126762458330442bea8c26dedfd57dbe146ba3a9b83c3"
 
 [[files]]
 file = "mods/[1.20.1 Forge]Some-Peripherals-0.0.12.jar"
 hash = "f7520587de63dfc4ad0d5ad29a3539474103b01669214aa3241171c6b7f33742"
-
-[[files]]
-file = "mods/advanced-peripherals.pw.toml"
-hash = "b0c61413cc2dd7fca52014fa070c40aa478dc9007dc7a94330b97f1be7827bd5"
-metafile = true
 
 [[files]]
 file = "mods/ae2-things-forge.pw.toml"
@@ -91,6 +94,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "3d8be55f14760357d0676b6e551c3d6afa4494ffbc06629b874230a940a04e17"
 metafile = true
 
 [[files]]
@@ -732,6 +740,16 @@ hash = "b4b74b7292223d98fe08a1cdb74f716472476150ab7b284bf143a5f7cfc0f9dc"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "8df897c0f7831e919aa528c3c1e5239f39439c123d99761230ab2357132bad98"
+metafile = true
+
+[[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
@@ -908,6 +926,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
 metafile = true
 
 [[files]]
