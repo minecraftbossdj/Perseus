@@ -446,6 +446,14 @@ hash = "3906d79212d26da8569ad46ae6bff34f8af0b3bc0a1ec6b658c8bf7a07b939d8"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge-2001.3.6.jar"
+hash = "caaa40aea64bba6f113fbddcabf77962b4b4e03bf57cbabace07ab05d28b38f9"
+
+[[files]]
+file = "mods/ftb-chunks-modded-1.20+1.1.9.jar"
+hash = "ac1c0d687867b98ce9c1f86e70bc112e9a1e07b654f21bdcadcb0fa40c090dbb"
+
+[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "e196c44c69785ae15eb47a10207fee12362d34e63d94f663a00aa58e26313c37"
 metafile = true
@@ -454,6 +462,10 @@ metafile = true
 file = "mods/ftb-library-forge.pw.toml"
 hash = "eb351918762f5c8f05672257082d1ca144c3c9397c40d6785116d1af8b02d864"
 metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge-2001.3.1.jar"
+hash = "d6e3cf8d0bdae7f848764428c613ae2528aecf9d275b4169eb8e15da87b41863"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
@@ -527,6 +539,16 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "fd35eb8e67f11aec4ae71465ac1b2d9599039d1b3efd8f463655b58f744b5a09"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "3821402f6ea538edf6f958ca67b81fa999379d4d36f6fcea24b44a80f70a450d"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "b29b617692233d60179a6d7376dade85063af0e73a3cc53c623bf570fb768d82"
 metafile = true
 
 [[files]]
@@ -662,11 +684,6 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "d64cc6ea9645a980ef0911bc036fb217ff9447fccb0086379490cb36b76932e2"
 metafile = true
 
 [[files]]
@@ -811,6 +828,16 @@ hash = "eb7fb878f669cc17a22d19902fe96cdcfe541a9cf7d03eb7244fc11e13713b61"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "b969799c17defc1e7c76e4605557c9d32802a0004a5e45b7044e85d3d9c43345"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "ef691f94bafcddb82e719f73ba834aeca547ef895307bc7482188d04c5fcfe93"
 metafile = true
@@ -881,16 +908,6 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "b000d0545976048ed0bcd4276a47168c5eac0344fe404b07e67761d79a9c89cc"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "95650f26d33823363d0003ff801e081f4c1e9e33d88a4fc871ebc7ec33b72ac5"
 metafile = true
 
 [[files]]
