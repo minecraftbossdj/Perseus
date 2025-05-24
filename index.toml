@@ -45,10 +45,6 @@ file = "mods/VMod-Forge-1.20.1-1.1.0.jar"
 hash = "1e991502e0127a94b3afc1b964f2ca6eb7532733b825aded101f203ec30c2447"
 
 [[files]]
-file = "mods/ValkyrienWeightlifting-0.2-connectorfix.jar"
-hash = "259eda6016cf4710d94daa7ad76bdd5089f52603ceaab5e7fe4359a4b0b620b5"
-
-[[files]]
 file = "mods/Warium 0.2.1.jar"
 hash = "9e2c8537fb3fbc4f0eb126762458330442bea8c26dedfd57dbe146ba3a9b83c3"
 
@@ -367,11 +363,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "d48a1ea93de8cd5febb95ba52989d8d9ab4e998cfbdf9c1076a9f2e571d2fcbe"
-metafile = true
-
-[[files]]
-file = "mods/emotecraft.pw.toml"
-hash = "84e6ec23b1d9e88d4e1147d3d3c7c50b387f4b7ce06c52d3d8b6ceb6412907ee"
 metafile = true
 
 [[files]]
@@ -717,11 +708,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
-metafile = true
-
-[[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
