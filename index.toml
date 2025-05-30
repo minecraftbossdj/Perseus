@@ -143,8 +143,17 @@ hash = "2ecf09fed9ee5d417e3c748b9274989b37bd5555ddfea9626e53628b60285189"
 metafile = true
 
 [[files]]
+file = "mods/cclink-2.0.0-beta1-1.20.1.jar"
+hash = "f00edbe9ebb842224106b24e098e5b719ec27897fae99bb4f3e6c8de142e2a6d"
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "4bb858ff22f940c160fcc38c71cd4943168db7dc8f7090abf1b5b0ff691d6afd"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
 metafile = true
 
 [[files]]
@@ -265,11 +274,6 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "011d35087c3d81b17000ba7604a73fef600a868021eed8c14df2dc2b77ca7ddc"
-metafile = true
-
-[[files]]
-file = "mods/create-numismatic-bounties.pw.toml"
-hash = "11a86ac06ce47c458ad32a176be5bb7d4d19ea33909b93b041713bbffe867c84"
 metafile = true
 
 [[files]]
@@ -751,6 +755,11 @@ hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
@@ -834,6 +843,11 @@ metafile = true
 [[files]]
 file = "mods/steel-armor-blocks.pw.toml"
 hash = "c1ee4e3e9ea07f252f13053be17aa38259cebd6de451018088874bf38a40b2b0"
+metafile = true
+
+[[files]]
+file = "mods/stitch.pw.toml"
+hash = "58621f030d6291279635fcaf62bffdea007077aaf98513057a59fe97d0ddce6d"
 metafile = true
 
 [[files]]
