@@ -143,8 +143,8 @@ hash = "2ecf09fed9ee5d417e3c748b9274989b37bd5555ddfea9626e53628b60285189"
 metafile = true
 
 [[files]]
-file = "mods/cclink-2.0.0-beta1-1.20.1.jar"
-hash = "f00edbe9ebb842224106b24e098e5b719ec27897fae99bb4f3e6c8de142e2a6d"
+file = "mods/cclink-2.1.0-beta1-1.20.1.jar"
+hash = "870e990ecd2b96d61a6ce94d5c1acb184887115ff28a3ec462a26cba4530747a"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
