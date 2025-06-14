@@ -3,8 +3,8 @@ filename = "kubevs-1.20.1-forge-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6b9f36fda98f77066d2d258cd3d86bb0529cc61e"
+hash-format = "sha256"
+hash = "f33a99a0cc2b12cddc69a0939d54127e916edc810c6fc08309d0acdf0de9b033"
 mode = "metadata:curseforge"
 
 [update]

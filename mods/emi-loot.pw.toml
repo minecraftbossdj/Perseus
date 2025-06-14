@@ -3,8 +3,8 @@ filename = "emi_loot-0.7.6+1.20.1+forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ae1753ff363181e1b976716e768699e711dc5f2e"
+hash-format = "sha256"
+hash = "f4e5ecc0d1e380b7f25ae18befb9fea4e865390530827eb5c290de6505300693"
 mode = "metadata:curseforge"
 
 [update]

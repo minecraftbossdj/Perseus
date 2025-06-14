@@ -3,8 +3,8 @@ filename = "bdlib-1.27.0.8-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d29b7226d10005a649ec089e626efa534ee88598"
+hash-format = "sha256"
+hash = "1b93852d15c61230b93b107c20d510072afdad577e76f287e6dd6a97fe6bc788"
 mode = "metadata:curseforge"
 
 [update]

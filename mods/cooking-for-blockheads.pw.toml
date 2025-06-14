@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vJnhuDde/versions/vpF3SAiG/cookingforblockheads-forge-1.20.1-16.0.13.jar"
-hash-format = "sha1"
-hash = "a594c4becead785e8dbf9a9270e161c5e9a66c99"
+hash-format = "sha256"
+hash = "e077037f76d64cd36232cf2167d9a237cc52155c9168506fb1b2a302155085d5"
 
 [update]
 [update.modrinth]

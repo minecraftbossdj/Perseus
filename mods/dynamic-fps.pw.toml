@@ -3,8 +3,8 @@ filename = "dynamic-fps-3.9.4+minecraft-1.20.0-forge.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "8abb7fd84ccd0647f672dc7315e428f1873d8f2d"
+hash-format = "sha256"
+hash = "458dd657a4a6f5b0d5027716c9a011af0b99860709103005def013a0e097d840"
 mode = "metadata:curseforge"
 
 [update]

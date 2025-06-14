@@ -3,8 +3,8 @@ filename = "MekanismAdditions-1.20.1-10.4.15.75.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "14b1b7e4f4c1974d139e1a99fa1dfe85dd78f3f6"
+hash-format = "sha256"
+hash = "25a53ff2a75666e39e64de9a0ffd249e62fd116b801046f70947eed1a5cf5281"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QCUnCyr8/versions/ZANfJnvI/Control%20Craft%20Forge-1.20.1-2.2.1-all.jar"
-hash-format = "sha1"
-hash = "2812182f4604a6804ba2f1e835fd34879f8dd359"
+hash-format = "sha256"
+hash = "a59b41249cdc1a0caaf9e5cc8412c77b478c084b20b34ef67bc5868863a40aeb"
 
 [update]
 [update.modrinth]
