@@ -3,8 +3,8 @@ filename = "astages-1.2.2-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "731581b24872b2681d00cce5a5fb555350353eb62005885b11ad1528a7f7442c"
+hash-format = "sha512"
+hash = "2653c63732ca5f11635528b4f4f9544b29262485f795872a291e13b66ae3ee2a50c79e4132e97482ad5f8d1d789ab0c1c42410883782f85cf65e9d2cbe77d7c7"
 mode = "metadata:curseforge"
 
 [update]

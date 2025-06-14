@@ -3,8 +3,8 @@ filename = "OctoLib-FORGE-0.5.0.1+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047"
+hash-format = "sha512"
+hash = "e0bbe3a999f3a8c32b7dc0fd5bae61f62915dc5be40ac97a777f0784cdfaaed74b74f48cd407b9a8abb081ff331fbd272c9d4e08125f48f091435c926468d5c6"
 mode = "metadata:curseforge"
 
 [update]
