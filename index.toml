@@ -45,10 +45,6 @@ file = "mods/VMod-Forge-1.20.1-1.1.0.jar"
 hash = "1e991502e0127a94b3afc1b964f2ca6eb7532733b825aded101f203ec30c2447"
 
 [[files]]
-file = "mods/Warium 0.2.1.jar"
-hash = "9e2c8537fb3fbc4f0eb126762458330442bea8c26dedfd57dbe146ba3a9b83c3"
-
-[[files]]
 file = "mods/[1.20.1 Forge]Some-Peripherals-0.0.12.jar"
 hash = "f7520587de63dfc4ad0d5ad29a3539474103b01669214aa3241171c6b7f33742"
 
@@ -95,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "3d8be55f14760357d0676b6e551c3d6afa4494ffbc06629b874230a940a04e17"
+metafile = true
+
+[[files]]
+file = "mods/astages.pw.toml"
+hash = "647d67e4f81da78a0f10b48f420860fc19d89ad39b15aa9e7e8561ebb733b236"
 metafile = true
 
 [[files]]
