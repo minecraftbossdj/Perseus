@@ -3,8 +3,8 @@ filename = "rhino-forge-2001.2.3-build.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1"
+hash-format = "sha256"
+hash = "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6"
 mode = "metadata:curseforge"
 
 [update]

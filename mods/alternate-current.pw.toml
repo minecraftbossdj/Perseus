@@ -3,8 +3,8 @@ filename = "alternate_current-mc1.20-1.7.0.jar"
 side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "02def44a2c416459ee5daecbe1caa6d78571e205"
+hash-format = "sha256"
+hash = "9dfa5365ef170323612d6ada820b7cac12e05135f00f16d0f627488426f59565"
 mode = "metadata:curseforge"
 
 [update]

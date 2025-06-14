@@ -3,8 +3,8 @@ filename = "IntegratedCrafting-1.20.1-1.1.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5f372f628813fb118651b5612f409a441d3b2fb4"
+hash-format = "sha256"
+hash = "36d6baed13f476af72ef67f1c45d2757deb7f0fc6b2e7654653a79fd5ef4371f"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "ImmediatelyFast-Forge-1.5.0+1.20.4.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "653fb9d1ce673b9987b18dfc0a9db4b9cb48d1de"
+hash-format = "sha256"
+hash = "d605d50890b17ef8b580106161f3cc1941f332555e775e1f4985e906ce2bd768"
 mode = "metadata:curseforge"
 
 [update]

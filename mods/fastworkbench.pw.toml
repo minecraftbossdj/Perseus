@@ -3,8 +3,8 @@ filename = "FastWorkbench-1.20.1-8.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1a322a85e7c7024b8a0715c12d27b5ed0930d729"
+hash-format = "sha256"
+hash = "86d20c6879bf86ef76b3fd94998d3e5c3327acb5d5324b6eb0b5348354766620"
 mode = "metadata:curseforge"
 
 [update]
