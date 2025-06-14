@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QAGBst4M/versions/YFZdsqXl/PuzzlesLib-v8.1.32-1.20.1-Forge.jar"
-hash-format = "sha512"
-hash = "f6420b4884583727ee66d7410ce5ad3ce2a5fd9aed49700ea4bba1fd944a4b63d2d3f15a3d0d64afa2ec1aa261f8ef52b6277712c7d19e6dd31ff9d9360f05ae"
+hash-format = "sha1"
+hash = "1f24a25582fa6bb2569e32401a232ee90d34cc1a"
 
 [update]
 [update.modrinth]
