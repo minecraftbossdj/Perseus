@@ -3,8 +3,8 @@ filename = "cccbridge-mc1.20.1-forge-1.6.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "78a03348b3c1f26170cd1171b3a8ca8fbb34a272"
+hash-format = "sha256"
+hash = "ebdde3d104757c50f0a052b7807c4b7464bf12217a1cc7155387f665fb578d22"
 mode = "metadata:curseforge"
 
 [update]

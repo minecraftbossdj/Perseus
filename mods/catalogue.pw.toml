@@ -3,8 +3,8 @@ filename = "catalogue-forge-1.20.1-1.8.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b8cc73db430fa6015671492d4332a65a8c2f5cae"
+hash-format = "sha256"
+hash = "58445fc445546ab0db677edb9bf45bb87b99370e6483ee9080d816a9109cb210"
 mode = "metadata:curseforge"
 
 [update]

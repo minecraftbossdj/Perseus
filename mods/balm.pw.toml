@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/VSVCZFqo/balm-forge-1.20.1-7.3.29-all.jar"
-hash-format = "sha1"
-hash = "949cc46c6a513221bdf3917e5faad5be490b3248"
+hash-format = "sha256"
+hash = "849d7161d413f29bcfb4cbebbdb717b8634ef8be5f5e48cd622d4f72ce0203f1"
 
 [update]
 [update.modrinth]

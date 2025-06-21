@@ -3,8 +3,8 @@ filename = "MorePeripherals_1.20.1-1.13.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2135a9f3a2bf2ee17e3975183ceb74eb72f81fd5"
+hash-format = "sha256"
+hash = "73f2bfb8755d867b05d2b8336fd3fba4f1ecb6e0c21ae23b4f4b1c00357cb9cc"
 mode = "metadata:curseforge"
 
 [update]

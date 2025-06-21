@@ -3,8 +3,8 @@ filename = "ScalableCatsForce-3.3.1-build-0-with-library.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "28154aba31d9165b801aa7800aa758263a23e48f"
+hash-format = "sha256"
+hash = "4ae39dc3029d8bc4292d55ff20368b7eb69b050af24ebaa487594ab61665da81"
 mode = "metadata:curseforge"
 
 [update]

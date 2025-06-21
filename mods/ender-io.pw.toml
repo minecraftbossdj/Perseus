@@ -3,8 +3,8 @@ filename = "EnderIO-1.20.1-6.2.10-beta-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "86740cc3fbcdf613e1d7a7ecfa29d296c7e7e7b8"
+hash-format = "sha256"
+hash = "9b68ce44d63089d74faa9a61bd014ccc7d505fbc96a5e4d1abd56fc9a7c99a5a"
 mode = "metadata:curseforge"
 
 [update]

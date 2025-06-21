@@ -3,8 +3,8 @@ filename = "StorageDrawers-1.20.1-12.9.13.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3894fe08494cd118f99634bb00c19dd1731b7337"
+hash-format = "sha256"
+hash = "f7d0df800bf13399c8d9e3b04d5723ed8468aca68224f4fb2133ac55bb4313a0"
 mode = "metadata:curseforge"
 
 [update]

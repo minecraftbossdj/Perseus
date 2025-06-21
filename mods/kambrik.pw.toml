@@ -3,8 +3,8 @@ filename = "Kambrik-6.1.1+1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "48cdc22a0f6698c9059f437538e5546f74900541"
+hash-format = "sha256"
+hash = "37d0c2b03a1f3aacb30498d67c35adaca99dc9ecd30f66f383016f4cbc85be8e"
 mode = "metadata:curseforge"
 
 [update]

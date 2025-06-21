@@ -3,8 +3,8 @@ filename = "createdeco-2.0.2-1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "606650f31ca0a5eb64d4bbb8fbaecf357a3bdb43"
+hash-format = "sha256"
+hash = "f2e6e196603c13b23063a376b09aac74c7f76348cde45de5256bb68f2e9566c1"
 mode = "metadata:curseforge"
 
 [update]
