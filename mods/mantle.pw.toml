@@ -3,8 +3,8 @@ filename = "Mantle-1.20.1-1.11.44.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "f062a6a21a36ee1ea74085bbb6f7a2a5475f5fc87bf6764bffdc418dc1382934"
+hash-format = "sha1"
+hash = "db0aa95649c5943d416ddd31c44c84812b06d42a"
 mode = "metadata:curseforge"
 
 [update]

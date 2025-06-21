@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qnQsVE2z/versions/DijQLauD/Quark-4.0-462.jar"
-hash-format = "sha256"
-hash = "c90b96f049d92825c4a103721988c80d72e5ad380d17be46a0f53e114874c478"
+hash-format = "sha1"
+hash = "9b0fb82995622a0070c00827c698c43b49d9d14b"
 
 [update]
 [update.modrinth]

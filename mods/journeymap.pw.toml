@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/r7FWVNCs/journeymap-1.20.1-5.10.3-forge.jar"
-hash-format = "sha256"
-hash = "7640a8fdc24ea3988764f774ed1b84cae60f70a1b395bb693faa7aa91b38af62"
+hash-format = "sha1"
+hash = "fdd97a782bdc6d0e28a851a9715abb190df47aa6"
 
 [update]
 [update.modrinth]

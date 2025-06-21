@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/M1ZKbfkJ/versions/BBbIV2h1/jmi-forge-1.20.1-0.14-48.jar"
-hash-format = "sha256"
-hash = "b96f323241bfc6295c6887c36c7a39e5375019883373db5a0383fc6d34f3a505"
+hash-format = "sha1"
+hash = "f2be323d589b953eaa303f8b74913831a5a9b77b"
 
 [update]
 [update.modrinth]

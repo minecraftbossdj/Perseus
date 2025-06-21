@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MVARlG2f/versions/boj4QtcB/Zeta-1.0-30.jar"
-hash-format = "sha256"
-hash = "7b68e166061c6ea0a8ac1585b0ae222f12bdd350728f3d797b520c1e915a310b"
+hash-format = "sha1"
+hash = "1e87aae038570b8f5864bcdd6ae6dabb30162f2d"
 
 [update]
 [update.modrinth]

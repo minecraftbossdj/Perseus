@@ -3,8 +3,8 @@ filename = "e4mc_minecraft-forge-5.3.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha256"
-hash = "442a9bf409a5b1f4428eec6d935c7937f0fa91493312d4fc91caa223d0366a95"
+hash-format = "sha1"
+hash = "3a3569c62fb86cb176067fc5cb2444cfa074a056"
 mode = "metadata:curseforge"
 
 [update]
