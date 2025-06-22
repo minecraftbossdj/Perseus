@@ -5,44 +5,8 @@ file = "config/Advancedperipherals/peripherals.toml"
 hash = "0c3f7afc3a76d19de8b26605fd4817558dfd86d0568e853f816d67a1f21a0e39"
 
 [[files]]
-file = "kubejs/assets/mtga/lang/en_us.json"
-hash = "00bc62f241887e409b8d9d210bfab6a373a0ae34dba9d0f4f482a703665c5b91"
-
-[[files]]
-file = "kubejs/assets/mtga/models/item/moss.json"
-hash = "c1cc978ac4e379096f7391a2c2548bb6f600079f25dad6a0d21011169187a21e"
-
-[[files]]
-file = "kubejs/assets/mtga/textures/item/moss.png"
-hash = "655586484800a08ceb4e121ba71e40765da77b7bc6c6d3c19fd96f6bc5dc561c"
-
-[[files]]
-file = "kubejs/assets/netherless/textures/block/incomplete_soul_sand.png"
-hash = "a3ad983526fa0005e4d5fac670b7616cb918afa1a99e61daf954a0760aebef38"
-
-[[files]]
-file = "kubejs/assets/netherless/textures/item/coal_rod.png"
-hash = "1bf7605ee40e1b377ed50c817069b189af665e9b3c660ba58b65c2038792d983"
-
-[[files]]
-file = "kubejs/assets/netherless/textures/item/incomplete_blaze_rod.png"
-hash = "67feaa3f8e60eed84b57007c054bfa47fcbbab9285bc6aef40db0088cacf1d96"
-
-[[files]]
-file = "kubejs/assets/netherless/textures/item/netherite_fragment.png"
-hash = "a2bb180ad029a207e439d230c4333c0dade9507628f2859bbb1874303ee1ec2a"
-
-[[files]]
 file = "kubejs/config/client.properties"
 hash = "4e3bc499eb8ce1f32f89ede1bf2e91ec8d0b83427edab1692871807f5d52871a"
-
-[[files]]
-file = "kubejs/data/mtga/recipes/tools/modifiers/upgrade/moss.json"
-hash = "c38de3bfbf405960a13b19acc8b1cf2445820d9daf6ed0deac8b65236aced465"
-
-[[files]]
-file = "kubejs/moss.js"
-hash = "c4b503d4d4b02188f7381a02d5115843d3f748a7c675a941bb33e9737d04d052"
 
 [[files]]
 file = "kubejs/server_scripts/integratedDynamics.js"
@@ -55,14 +19,6 @@ hash = "b9fedbfb3e0c8f03684a40b595430f1c5c374e3ffde75d2c8851dce17612b173"
 [[files]]
 file = "kubejs/server_scripts/somePeripherals.js"
 hash = "41f15309b4cfeb6317901d1a3e603c88e847d8f062b3f6a3f7b163a56c548d8f"
-
-[[files]]
-file = "kubejs/server_scripts/whatIfTheRealNetherlessWasTheFriendsWeMadeAlongTheWay.js"
-hash = "bbd39b462cc54d3ef2c2147453f9a7bf5e69451edf2227fc4d7579c0f0fc6aaf"
-
-[[files]]
-file = "kubejs/startup_scripts/OHHH IM NETHERLESSING IT.js"
-hash = "1ba18171fdc93cf914babdf77f2b8c4a24e1a115c3b9cb7618dfe937a7ded1f4"
 
 [[files]]
 file = "mods/AdvancedPeripherals-1.20.1-0.7.40r.jar"
