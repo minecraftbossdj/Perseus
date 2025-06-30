@@ -102,11 +102,6 @@ hash = "ce0d6da9bff52bbaa68ea58b36544cda6a09f13016104487bee27818693e98ff"
 metafile = true
 
 [[files]]
-file = "mods/astages.pw.toml"
-hash = "647d67e4f81da78a0f10b48f420860fc19d89ad39b15aa9e7e8561ebb733b236"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "86a3fcaaa6e160c9032dd44a3a26e961a32e23897a1d323d1930fdd6458d535b"
 metafile = true
