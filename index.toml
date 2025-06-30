@@ -21,6 +21,14 @@ file = "kubejs/server_scripts/somePeripherals.js"
 hash = "41f15309b4cfeb6317901d1a3e603c88e847d8f062b3f6a3f7b163a56c548d8f"
 
 [[files]]
+file = "kubejs/server_scripts/whatIfTheRealNetherlessWasTheFriendsWeMadeAlongTheWay.js"
+hash = "bbd39b462cc54d3ef2c2147453f9a7bf5e69451edf2227fc4d7579c0f0fc6aaf"
+
+[[files]]
+file = "kubejs/startup_scripts/OHHH IM NETHERLESSING IT.js"
+hash = "1ba18171fdc93cf914babdf77f2b8c4a24e1a115c3b9cb7618dfe937a7ded1f4"
+
+[[files]]
 file = "mods/AdvancedPeripherals-1.20.1-0.7.40r.jar"
 hash = "2f3e35534bdc4c6e31a87b121f6b8e75373607707055210d906e34334f4c9b39"
 
