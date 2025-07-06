@@ -5,6 +5,22 @@ file = "config/Advancedperipherals/peripherals.toml"
 hash = "0c3f7afc3a76d19de8b26605fd4817558dfd86d0568e853f816d67a1f21a0e39"
 
 [[files]]
+file = "kubejs/assets/netherless/textures/block/incomplete_soul_sand.png"
+hash = "a3ad983526fa0005e4d5fac670b7616cb918afa1a99e61daf954a0760aebef38"
+
+[[files]]
+file = "kubejs/assets/netherless/textures/item/coal_rod.png"
+hash = "1bf7605ee40e1b377ed50c817069b189af665e9b3c660ba58b65c2038792d983"
+
+[[files]]
+file = "kubejs/assets/netherless/textures/item/incomplete_blaze_rod.png"
+hash = "67feaa3f8e60eed84b57007c054bfa47fcbbab9285bc6aef40db0088cacf1d96"
+
+[[files]]
+file = "kubejs/assets/netherless/textures/item/netherite_fragment.png"
+hash = "a2bb180ad029a207e439d230c4333c0dade9507628f2859bbb1874303ee1ec2a"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "4e3bc499eb8ce1f32f89ede1bf2e91ec8d0b83427edab1692871807f5d52871a"
 
