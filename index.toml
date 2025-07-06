@@ -22,7 +22,7 @@ hash = "41f15309b4cfeb6317901d1a3e603c88e847d8f062b3f6a3f7b163a56c548d8f"
 
 [[files]]
 file = "kubejs/server_scripts/whatIfTheRealNetherlessWasTheFriendsWeMadeAlongTheWay.js"
-hash = "bbd39b462cc54d3ef2c2147453f9a7bf5e69451edf2227fc4d7579c0f0fc6aaf"
+hash = "9052b164397e250bb07ac8ea9766ec25f45c69e69b1a6d2d37e6a7a79ee15992"
 
 [[files]]
 file = "kubejs/startup_scripts/OHHH IM NETHERLESSING IT.js"
@@ -868,6 +868,10 @@ metafile = true
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "4a01708d745ad0672aad52dd7aac91de324cb830bcea1718de776af87b9c9115"
 metafile = true
+
+[[files]]
+file = "mods/tconstruct_js-1.0.3.jar"
+hash = "1b70ac0e417fbb85c060ee1a27a4333dffd5f497168c12a9f0f5ca60157ee01d"
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
