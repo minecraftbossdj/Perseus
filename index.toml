@@ -5,6 +5,10 @@ file = "config/Advancedperipherals/peripherals.toml"
 hash = "0c3f7afc3a76d19de8b26605fd4817558dfd86d0568e853f816d67a1f21a0e39"
 
 [[files]]
+file = "kubejs/assets/netherless/textures/block/ghasttearfluid.png"
+hash = "0c77afedce87991bf8bad00b5198e10669480d7258da58f4e58e817dab983293"
+
+[[files]]
 file = "kubejs/assets/netherless/textures/block/incomplete_soul_sand.png"
 hash = "a3ad983526fa0005e4d5fac670b7616cb918afa1a99e61daf954a0760aebef38"
 
@@ -38,7 +42,11 @@ hash = "41f15309b4cfeb6317901d1a3e603c88e847d8f062b3f6a3f7b163a56c548d8f"
 
 [[files]]
 file = "kubejs/server_scripts/whatIfTheRealNetherlessWasTheFriendsWeMadeAlongTheWay.js"
-hash = "9052b164397e250bb07ac8ea9766ec25f45c69e69b1a6d2d37e6a7a79ee15992"
+hash = "2c8bcca7d6941ef0099e31f972e42c34ffa862e1d3c65bce62915b878c07c374"
+
+[[files]]
+file = "kubejs/startup_scripts/OHHH IM NETHERLESSING IT part 2 because idk if i can put these in the same file i probably can ngl also are you fr reading ts.js"
+hash = "7652e8cb9e1cc5cbd75d63dfa16ea9b908866a30d526d2191b27d2b15b2d1cd2"
 
 [[files]]
 file = "kubejs/startup_scripts/OHHH IM NETHERLESSING IT.js"

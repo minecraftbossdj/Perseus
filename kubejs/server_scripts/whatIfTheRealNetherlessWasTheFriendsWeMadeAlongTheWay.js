@@ -1,6 +1,7 @@
 ServerEvents.recipes(event => {
   event.remove({ id: 'tconstruct:smeltery/alloys/molten_refined_obsidian' })
   event.recipes.create.haunting('minecraft:quartz', 'minecraft:amethyst_shard')
+  event.recipes.create.haunting('kubejs:ghast_tear_bucket', 'tconstruct:blazing_blood_bucket')
   event.recipes.create.haunting('minecraft:twisting_vines', 'minecraft:bamboo')
   event.recipes.create.haunting('minecraft:weeping_vines', 'minecraft:vine')
   event.recipes.create.haunting('minecraft:warped_stem', 'minecraft:oak_log')
@@ -130,6 +131,13 @@ ServerEvents.recipes(event => {
     Item.of("tconstruct:ichor_slime_ball"),
     Fluid.of("tconstruct:blazing_blood", 20), //input fluid
     Item.of("minecraft:slime_ball"), //cast
+    true, //use cast 
+    60 //ticks to cooldown
+  )
+  tconstruct.casting_table(
+    Item.of("minecraft:ghast_tear"),
+    Fluid.of("kubejs:ghast_tear", 250), //input fluid
+    Item.of("tconstruct:nugget_cast"), //cast
     true, //use cast 
     60 //ticks to cooldown
   )
