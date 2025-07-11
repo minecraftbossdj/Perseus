@@ -161,6 +161,11 @@ hash = "24ef339d819c9d4dec14ce7aeb7b1478bf17cb742bf1fbe1114592932e588af9"
 metafile = true
 
 [[files]]
+file = "mods/cc-link.pw.toml"
+hash = "673908fbfe6e67b606da0ece55b6d2a21707512f1b2e515463757da425d42ee3"
+metafile = true
+
+[[files]]
 file = "mods/cc-vs.pw.toml"
 hash = "b73b02e96dc793bfed23fbb157a252e798f6f1c68aec1f17ebbd61c45baaac7b"
 metafile = true
@@ -169,10 +174,6 @@ metafile = true
 file = "mods/cccbridge.pw.toml"
 hash = "2ecf09fed9ee5d417e3c748b9274989b37bd5555ddfea9626e53628b60285189"
 metafile = true
-
-[[files]]
-file = "mods/cclink-2.1.0-beta1-1.20.1.jar"
-hash = "870e990ecd2b96d61a6ce94d5c1acb184887115ff28a3ec462a26cba4530747a"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
@@ -197,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+metafile = true
+
+[[files]]
+file = "mods/cobblefordays.pw.toml"
+hash = "0156f093b5a9e07cba491de843e23c84bfb546b6a032ed5c3b364ede2ec15d1f"
 metafile = true
 
 [[files]]
@@ -663,6 +669,11 @@ hash = "4416e478b6081fb424d8f428302275c878d99e8824236eb28b2e51b9c945a5cf"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "e8e2b582e52ac13e3cd67cb2c8be853003625903c4040585ad60e1dbb0f2c48f"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "9fddc41ff57d9af22a1eac8b137204c2da347a165b647b11883db6853e1183dd"
 metafile = true
@@ -695,6 +706,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "532742fd8bec17663d0f7d8d687aeed2dd896801b67e283db473a4f06b2ca2a2"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "93261366422f3358126df561a57ae6e2d93bd11600d9fbaba5f866ec52a319f0"
 metafile = true
 
 [[files]]
@@ -785,6 +801,16 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "33c1012df4c3267ee9e70509001739908b2f2c72ae0b2728a750b3516644aa2c"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "50821203e1ce17c63e191385d20bcbbcdc50558574c37602733b461be05be9f4"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "dea0789d9c93a2fe76cfc4bfdce9dd8fe2e701f3046faa25e5291253ba9792ce"
 metafile = true
 
 [[files]]
@@ -891,6 +917,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "4a01708d745ad0672aad52dd7aac91de324cb830bcea1718de776af87b9c9115"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "906b1a08e332ab12174bc72e32b1537b7d3f0ae4a01ee7c7d50ec54dd2f057b6"
 metafile = true
 
 [[files]]
