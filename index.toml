@@ -920,9 +920,8 @@ hash = "4a01708d745ad0672aad52dd7aac91de324cb830bcea1718de776af87b9c9115"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "906b1a08e332ab12174bc72e32b1537b7d3f0ae4a01ee7c7d50ec54dd2f057b6"
-metafile = true
+file = "mods/supplementaries-1.20-3.1.18.jar"
+hash = "dd2e5f41f6d847e8d54202a3449497195e42a1a14e4dff82a9291d1f2546651c"
 
 [[files]]
 file = "mods/tconstruct_js-1.0.3.jar"
