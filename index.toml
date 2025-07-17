@@ -773,9 +773,8 @@ hash = "737bfceef35e01742ad90a9779b61a437cf0fb9742c23dafc4dba44a9c819660"
 metafile = true
 
 [[files]]
-file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "645b7f787ddcde08094e315c356f9e5e102ca0b365d614d9068fd897229ea47f"
-metafile = true
+file = "mods/pneumaticcraft-repressurized-6.0.20+mc1.20.1+gps_tool_coordinate_tracker.jar"
+hash = "72ac2e84f90ee796d7448d5948ad466d8649d2ee7771104de3dbca5488e1d87d"
 
 [[files]]
 file = "mods/polymorph.pw.toml"
