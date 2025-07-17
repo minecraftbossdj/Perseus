@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-link.pw.toml"
-hash = "673908fbfe6e67b606da0ece55b6d2a21707512f1b2e515463757da425d42ee3"
+hash = "b9b7f2bc1a0604286ab107ed02f6c8cc6db9a178cc508a9f493fe2070dc979b8"
 metafile = true
 
 [[files]]
@@ -209,6 +209,10 @@ metafile = true
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
 metafile = true
+
+[[files]]
+file = "mods/cofh_core-1.20.1-11.0.2.56.jar"
+hash = "d7cd3ec8083e294e17cb50fe607b416c1dc83ce885e53ba3995d86e028f790e0"
 
 [[files]]
 file = "mods/common-capabilities.pw.toml"
@@ -797,6 +801,10 @@ metafile = true
 file = "mods/radium-reforged.pw.toml"
 hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
+
+[[files]]
+file = "mods/redstone_arsenal-1.20.1-8.0.1.24.jar"
+hash = "bf44e5c1a5a2a03db62b1820d573c09839019f85d90d279e92da6600be7d6b32"
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
