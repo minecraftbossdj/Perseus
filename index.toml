@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-link.pw.toml"
-hash = "b9b7f2bc1a0604286ab107ed02f6c8cc6db9a178cc508a9f493fe2070dc979b8"
+hash = "9bd369741af49aafe85be5d8b40ca6172ccc0564d6fa51053923e23a484eeecc"
 metafile = true
 
 [[files]]
